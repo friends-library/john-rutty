@@ -37,7 +37,7 @@ operative kind as that above described from the New Testament,
 and superior in efficacy to the dictates of mere reason.
 
 // lint-disable invalid-characters "œ"
-"`There appears,`" says Stillingfleet, 1. 2. c. 9. of his Origines sacrœ,
+"`There appears,`" says Stillingfleet, 1. 2. c. 9. of his [.book-title]#Origines sacrœ,#
 "`to have been a divine efficacy in the first preaching of the gospel,
 far beyond that of the mere dictates of philosophy,
 which was not suited to all capacities, but to the few only,
@@ -64,7 +64,7 @@ nor did they esteem any Christians that merely professed,
 but such as lived as Christ commanded;
 and Tertullian openly declares that when men depart from the discipline of the gospel,
 they so far cease amongst us to be accounted Christians.`"^
-footnote:[Cave`'s Primitive Christianity]
+footnote:[[.book-title]#Cave`'s Primitive Christianity#]
 
 But alas, how was the face of things changed, in process of time,
 and that faith which was once delivered to the saints
@@ -146,7 +146,7 @@ When the church`'s fortune grew better, her sons grew worse, and some of her fat
 the most memorable era from whence we may date the corruption of Christians was,
 when the church, through the favour of Emperors, became endowed with lands, possessions,
 and patrimonies, so that
-(in the words of Fox, in his Acts and Monuments, Vol. I. p. 716.)
+(in the words of Fox, in his [.book-title]#Acts and Monuments, Vol. I.# p. 716.)
 "`the bishops thereof, feeling the smack of wealth, ease, and prosperity,
 began to swell in pomp and pride,`" where I also read,
 that about this time a voice was heard, as it were from Heaven,
@@ -185,12 +185,12 @@ Nor indeed did any of the bishops of the first three hundred years after Christ
 claim any separate exclusive powers for the exercise of church discipline,
 but left these matters to the provincial and diocesan consistories, which,
 in the purer ages of the church, were composed of bishops, clergy, and laity.`"^
-footnote:[Examination of the bishop of London`'s Codex Juris Ecclesiastici Anglicani,
+footnote:[Examination of the bishop of London`'s [.book-title]#Codex Juris Ecclesiastici Anglicani,#
 published in London, 1735.]
 
 Hence, in the laws of the Anglo Saxons,
 we find a perpetual mixture of ecclesiastical and civil laws;^
-footnote:[Rapin`'s History of England.]
+footnote:[[.book-title]#Rapin`'s History of England.#]
 nor was it until the papal power grew to a monstrous height, under the Norman kings,
 that the clergy claimed a privilege of debating apart all matters,
 that in any wise related to religion, in ecclesiastical assemblies or synods.
@@ -214,8 +214,8 @@ marriage was allowed to priests that could not live continently; but in the year
 in the reign of king Henry I. a national synod was held,
 of which the fourth canon forbids the clergy to marry,
 or to live with their wives already married^
-footnote:[Rapin`'s History of England, Vol.
-II.]
+footnote:[[.book-title]#Rapin`'s History of England, Vol.
+II.#]
 and this point once gained was a great step towards
 putting in execution the project the pope had formed,
 of rendering the clergy independent of the civil power,
@@ -228,7 +228,7 @@ and consequently in expectation of no great matters from their sovereign,
 they were more at liberty to stick by the pope,
 who would be looked upon as the sovereign of the clergy.^
 footnote:[Ibid.
-Vol. II.]
+_Vol. II._]
 
 This however he did not attain to,
 till after a series of ages of growing darkness and ignorance.
@@ -248,8 +248,7 @@ in England was in the time of king Lucius,
 in the year of our Lord 180,
 and the continuance of it from thence to the entrance of the Infidel Saxons,
 was 301 years.
-The decay of the same, to the entrance of Austin the monk, was 143 years.`"
-Fox`'s Acts and Monuments, Vol. I. p.104.]
+The decay of the same, to the entrance of Austin the monk, was 143 years.`" [.book-title]#Fox`'s Acts and Monuments, Vol. I.# p.104.]
 and adhered to the rites prescribed to them by their first teachers:
 and when Austin the monk came into England, being sent by pope Gregory I,
 chiefly urging this one point, that they should submit to the authority of the pope,
@@ -263,14 +262,16 @@ archbishop of Canterbury, as soon as he came into England,
 made a visit to all the churches in his jurisdiction,
 and brought the people to a thorough conformity to the usages of the church of Rome;
 and A. D. 735, the English, archbishops went to Rome to receive the pall.^
-footnote:[Rapin`'s History of England, Vol.
-I.]
+footnote:[[.book-title]#Rapin`'s History of England, Vol.
+I.#]
 
 Besides the celibacy of the clergy, there was yet another stratagem,
 by which the dominion of this mighty prince was extended far and near;
-of which Puffendorf, in his Spiritual Monarchy of the Church of Rome,
+of which Puffendorf, in his [.book-title]#Spiritual Monarchy of the Church of Rome,#
 give us the following account:
 
+[quote]
+____
 The popes claimed the supreme direction over the universities,
 whereby these were rendered mainly instrumental in maintaining the popish sovereignty.
 For, in the universities,
@@ -299,7 +300,9 @@ that the fathers confessors may not want means to domineer over layman`'s consci
 and the these may be rendered incapable to examine
 and rule their actions according to solid principles,
 but be obliged to be guided blindfold, at the pleasure of their fathers confessors.
+____
 
+[.offset]
 So far Puffendorf.
 
 Agreeable to all this was one singular master-stroke
@@ -352,7 +355,7 @@ and the kingdom of England and lordship of Ireland, by him resigned unto the pop
 and the same king did thenceforward acknowledge himself a vassal to the holy see,
 and as such bound himself to pay the yearly tribute of one thousand marks,
 viz. seven hundred for England and three hundred for Ireland.^
-footnote:[Rapin`'s History of England.]
+footnote:[[.book-title]#Rapin`'s History of England.#]
 That the popes did really, in some of the most essential concerns,
 invade the rights of princes to a great degree, may appear from hence,
 that pope John 22. by his sole authority published a truce between England and Scotland,
@@ -362,8 +365,9 @@ upon what terms they pleased,
 with orders to compel the two kings and their subjects punctually to keep it,
 under pain of excommunication.^
 footnote:[Ibid.
-Vol. IV.]
+_Vol. IV._]
 
+[.offset]
 Next to the pope`'s pride, it remains that I give some account of his cruelty.
 
 The great and glorious event of the birth of our Lord Jesus Christ,
@@ -407,7 +411,7 @@ with several missionaries called inquisitors, into the county of Tholouse,
 and employed armies against them,
 and destroyed above two hundred thousand in the face of some months.
 ^
-footnote:[Sermons Against Popery, A. D. 1735]
+footnote:[[.book-title]#Sermons Against Popery, A. D. 1735.#]
 
 In the massacre of Paris, A. D. 1572,
 the number destroyed is computed at one hundred thousand, the new whereof,
@@ -419,7 +423,7 @@ this slaughter of those called heretics in France.
 
 In the Irish massacre one hundred fifty thousand Protestants,
 according to the most moderate computation, were murdered in cold blood.^
-footnote:[The Life of Oliver Cromwell]
+footnote:[[.book-title]#The Life of Oliver Cromwell#]
 Nor are there wanting later instances of the continuance of the same cruel disposition,
 particularly the persecution in France under Lewis XIV.,
 the cruelties at Thorn in Poland,
@@ -462,8 +466,8 @@ even as were the bones of that eminent reformer John Wickliff,
 after he had been dead forty-one years,
 taken out of the grave by a decree of the synod of Constance, and publicly burnt,
 and the ashes thrown into the river.^
-footnote:[See the History of the Inquisition at Goa,
-and the History of the English Martyrs.]
+footnote:[See the [.book-title]#History of the Inquisition at Goa,#
+and the [.book-title]#History of the English Martyrs.#]
 
 And when John Hus, another reformer, was condemned to be burnt by the synod of Constance,
 seven bishops degraded him, and then a proper mitre was put on his head,
@@ -472,7 +476,7 @@ etc. and the prelates delivered his body to be burnt, adding these words:
 Such was the cruelty peculiar to ecclesiastics,
 whereas when our temporal judges pronounce sentence against the worst malefactors,
 they pray, "`The Lord have mercy on thy soul.`"^
-footnote:[Sermons Against Popery, A. D. 1735]
+footnote:[[.book-title]#Sermons Against Popery, A. D. 1735.#]
 
 These and the above mentioned may suffice as short
 specimens of the pope`'s pride and cruelty.
@@ -552,7 +556,7 @@ the richer clergy were indulged in their non-residence,
 etc. whilst the poor vicars were bound by a constitution of Otho,
 to take a strict oath of continual residence,
 and without it their institution was declared to be null and void.^
-footnote:[Dr. Ayliff`'s Parergon juris Canonici Anglicani.]
+footnote:[Dr. Ayliff`'s [.book-title]#Parergon juris Canonici Anglicani.#]
 
 The pope, in process of time,
 engrossed to himself the collation of almost all the church preferments,
@@ -563,7 +567,7 @@ and these benefices were commonly farmed out to the English, who,
 to make the most of them, got the cure served for a very small salary.
 Hence divine service was neglected, the churches ran to ruin,
 and the instruction of Christians was almost wholly laid aside.^
-footnote:[Rapin`'s History of England.]
+footnote:[[.book-title]#Rapin`'s History of England.#]
 It appeared, however, upon a computation, made by order of king Henry III.
 A+++.+++ D. 1245, that more money was carried out of England annually by the pope`'s authority,
 than all the revenues of the crown put together;
@@ -573,13 +577,13 @@ of the kingdom (seeing they daily acquired and never alienated),
 had not certain statutes, particularly that of Mortmain,
 enacted in the reign of king Edward I. to check the growth of the riches of the clergy,
 prevented it.^
-footnote:[Rapin`'s Hist. and Sermons Against Popery.]
+footnote:[[.book-title]#Rapin`'s Hist. and Sermons Against Popery.#]
 
 But to conclude, about the year 1475,
 was erected the famous trade of pardons and indulgencies, i. e.
 a procurement of the remission of the pains of purgatory,
 which was sold for money like any other ware, in the time of Boniface IX.^
-footnote:[Polydore Virgil de rer. inventoribus.]
+footnote:[_Polydore Virgil de rer. inventoribus._]
 And Thuanus says,
 that the pope sent his bulls throughout Christendom to raise money for his immense expenses,
 promising the expiation of all sins, and eternal life at a set price and rate,
@@ -589,18 +593,18 @@ and preachers, to set forth the value and efficacy of those indulgencies.
 persuaded the people that whosoever would give ten shillings,
 should at his pleasure deliver one soul from the pains of purgatory, and preached,
 that if it were one jot less than ten shillings, it would profit them nothing.`"^
-footnote:[Fox`'s Acts and Monuments.]
+footnote:[[.book-title]#Fox`'s Acts and Monuments#]
 Hence many were encouraged to sin, and the authority of the keys was much debased.
 
 Behold the awakening imposition that made all men feel the bondage;
-and indeed this seems to have been the ne plus ultra of Romish corruption,
+and indeed this seems to have been the _ne plus ultra_ of Romish corruption,
 or the very midnight of popish darkness, out of which, by God`'s good providence,
 emerged more resplendent beams of the glorious light of the reformation.
 For this kind of filthy merchandize, being, among other countries,
 propagated also in Germany, by the means of Tecellus, a Dominican friar,
 his scandalous sermons much moved Martin Luther the monk,
 who upon this occasion published certain propositions concerning indulgencies,^
-footnote:[Fox`'s Acts and Monuments]
+footnote:[[.book-title]#Fox`'s Acts and Monuments#]
 which gave rise to a controversy,
 and from these small beginnings he proceeded with great zeal and
 constancy to detect many of the long established errors of popery.
@@ -612,6 +616,8 @@ then reigning, in his instructions published against Luther,^
 footnote:[Ibid.]
 acknowledging it in these words:
 
+[quote]
+____
 We confess that God suffereth this persecution to
 be inflicted on his church for the sins of men,
 especially of priests and prelates of the clergy,
@@ -626,7 +632,9 @@ that like as the contagion first from thence descended into all the inferior par
 so reformation and amendment of all that is amiss from the same place,
 again shall take its beginning: whereunto they shall find us so much the more ready,
 for that we see the whole world so desirous of the same.
+____
 
+[.offset]
 So far Pope Adrian.
 
 Now, that under the influence of such directors as those above described,
@@ -637,10 +645,14 @@ their excluding the laity from the assemblies for church discipline,
 and the setting up the authority of the church of Rome above all other churches:
 a few more examples to the like purpose now follow, viz.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ The veneration paid by the Papists to their images (contrary to the
 practice of the primitive Christians within four hundred years after Christ,
 among whom no images were worshipped or used in their churches^
-footnote:[Cave`'s Primitive Christianity]) and to their saints;
+footnote:[[.book-title]#Cave`'s Primitive Christianity#]) and to their saints;
 to whom they erect temples and chapels, confess their sins, pray and give praises,
 thus robbing the one supreme God of his honour.
 Now this their worship of saints is a practice borrowed from the heathenish theology,
@@ -658,7 +670,7 @@ Thus the use of holy water, or the water of purifying,
 was a Jewish rite mentioned in the Eighth chapter of Numbers,
 where God commands the water of purifying to be sprinkled on the Levites;
 and hence Alexander I. bishop of Rome^
-footnote:[Polyd. Virg. de rer. inventorib. i. v. c. 8.]
+footnote:[_Polyd. Virg. de rer. inventorib._ i. v. c. 8.]
 is said to have been the author of consecrating such cleansing water,
 ordering it to be kept in temples and houses to drive away devils.
 Whether the bishop last mentioned, who presided in the beginning of the Second century,
@@ -666,26 +678,31 @@ was really the introducer of this custom, I shall not take upon me to determine;
 its origin is plainly Jewish, and the continuance of it in the Christian church,
 a voluntary relapse from gospel-liberty into Jewish bondage.
 
+[.numbered]
 II. The priests`' vestments are derived from the Hebrews,
 as the last cited author shews in the mitre, surplice, girdle, etc. from Exodus 28 etc.
 
+[.numbered]
 III.
 The payment of tithes is another Jewish rite,
 void of all support by precept or example in the New Testament,
 and which was not established until about the same era as divers other popish corruptions.
-For as father Paul, in his Treatise of Ecclesiastical Benefices and Revenues, observes,
+For as father Paul, in his [.book-title]#Treatise of Ecclesiastical Benefices and Revenues,# observes,
 the "`Law of tithes was a divine Mosaical law, and as such,
 binding only to the Jewish people.--All right whatsoever of tithes is merely human;
 and about the year 1170, Alexander III.
 ordered proceedings by censures to enforce the payment of tithes,
 under pain of excommunication.`"^
-footnote:[Father Paul`'s Treatise of Ecclesiatcal Revenues, etc. chap.
+footnote:[Father Paul`'s [.book-title]#Treatise of Ecclesiatcal Revenues,# etc. chap.
 28.]
 
+[.numbered]
 IV. Auricular confession does not appear to have
 been absolutely enjoined to be practised once a year,
 earlier than the 4th Lateran council in 1215.^
-footnote:[Sermons Against Popery, A. D. 1735]
+footnote:[[.book-title]#Sermons Against Popery, A. D. 1735.#]
+
+====
 
 I shall subjoin but a few words of their corruptions of the Christian doctrines,
 and first, in their doctrine of purgatory,
@@ -694,7 +711,7 @@ and is moreover acknowledged by an eminent popish author, and an opponent of Lut
 to have been but lately received into the universal church.^
 footnote:[Ibid.]
 
-Secondly.
+_Secondly._
 The doctrine of transubstantiation is also another novelty,
 not broached until the Eighth century,
 and even about that time warmly opposed by the most learned men,
@@ -709,7 +726,7 @@ A+++.+++ D. 1059,
 the doctrine of transubstantiation was not decreed or established
 by any general council but the council of Trent,
 A+++.+++ D. 1551.^
-footnote:[Sermons Against Popery, A. D. 1735]
+footnote:[Sermons Against Popery, A. D. 1735.]
 
 To conclude; that divers of the novel order of Jesuits,
 of whom Ignatius Loyala the founder was not canonized until 1622,
@@ -717,9 +734,9 @@ did corrupt the great doctrines of Christianity,
 and represent the Christian morality as far short of the purity of the heathenish,
 the reader may see in a treatise written by the Abbe de Berthier, published in Dublin,
 1726,
-entitled The Parallel of the Doctrine of the Pagans with the Doctrine of the Jesuits,
+entitled [.book-title]#The Parallel of the Doctrine of the Pagans with the Doctrine of the Jesuits,
 and That of the Constitution Unigenitus,
-Issued by Pope Clement XL. Out of several instances therein
+Issued by Pope Clement XL.# Out of several instances therein
 mentioned of the nature of the doctrines of these fathers,
 it shall suffice here to transcribe one as a specimen of the rest, viz.
 
@@ -753,7 +770,7 @@ and (dismal to relate!) the prayers of the church were to be muttered in a langu
 which most as those that were therein exercised did not understand;
 for even in queen Mary`'s time, in the year 1557,
 it was deemed a crime for any clergyman to perform divine service in English:^
-footnote:[Fox`'s Ecclesiastical History.]
+footnote:[[.book-title]#Fox`'s Ecclesiastical History.#]
 and indeed an universal ignorance, extending to human as well as divine things,
 did reign for divers centuries preceding the grand era of
 the midnight of popish darkness above hinted at: v. g. king Alfred who died in 900,
@@ -761,7 +778,7 @@ complained bitterly that from the Humber to the Thames there was
 not a priest that understood the liturgy in his mother tongue;
 and that from the Thames to the sea there was not a man
 that knew how to translate the easiest piece of Latin.^
-footnote:[Rapin`'s History of England, Vol. 1]
+footnote:[[.book-title]#Rapin`'s History of England, Vol. 1#]
 
 And in the 15th century, the state of learning was very deplorable,
 viz. real learning was then scarce so much as heard of.
@@ -773,8 +790,7 @@ the monks who had crept into most of the professorships in the universities
 had over-run divinity and philosophy with such a heap of jargon as served
 only to give their disciples false notions of learning,
 and to teach them to wrangle.^
-footnote:[Rapin`'s History of England, Vol.
-6]
+footnote:[[.book-title]#Rapin`'s History of England, Vol. 6#]
 
 But with the reformation in religion, a more solid and useful learning did also revive;
 and here it seems well worthy of notice,
@@ -786,7 +802,11 @@ and a means of spreading knowledge among the people,
 who had with great care been kept in ignorance by the prevailing power.
 But now, as the poet says, by means of this excellent invention,
 
-"`Learning revives, nor fears again t`'expire Midst papal ignorance and Gothic fire:`"
+[verse]
+____
+"`Learning revives, nor fears again t`'expire
+Midst papal ignorance and Gothic fire:`"
+____
 
 And it is humbly hoped that the same thing may justly
 now also be applicable to the reformed religion.

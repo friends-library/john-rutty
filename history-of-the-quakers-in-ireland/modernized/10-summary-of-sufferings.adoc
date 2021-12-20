@@ -1,5 +1,5 @@
 [short="A Summary of Sufferings"]
-== A Summary View of the Sufferings of the People, in Ireland.
+== A Summary View of the Sufferings of the People, in Ireland
 
 Many and grievous were the sufferings which this people underwent at the beginning,
 merely for being exercised in preserving a conscience
@@ -75,7 +75,7 @@ might be further defended by the practice of the great Socrates,
 whose familiar custom it was, publicly to preach to, or instruct the people in just,
 grave, and virtuous manners; and thus he did, frequently, at any time of the day,
 and in the very streets, as occasion served, and as his good genius moved him;
-neither was he a hireling, for he did it gratis.--See Penn`'s No Cross, No Crown.]
+neither was he a hireling, for he did it gratis.--See Penn`'s [.book-title]#No Cross, No Crown.#]
 and to the liberty enjoyed in the primitive Christian churches,
 where we read that not one man only,
 but all might prophesy (i. e. in the sense of the apostle, speak to edification,
@@ -92,8 +92,8 @@ where also they sometimes desired the priests to prove their doctrine,
 and some even took the liberty of reproving the priests,
 when it appeared evident to them that they had preached
 things false and contrary to Scripture.^
-footnote:[See the compendious View of Extraordinary
-Sufferings of the People Called Quakers in Ireland,
+footnote:[See the compendious [.book-title]#View of Extraordinary
+Sufferings of the People Called Quakers in Ireland,#
 page 106, 111, 112.]
 
 On these accounts they suffered loss of goods, fines, whippings, cruel beatings,
@@ -246,21 +246,28 @@ and partly from a perusal and impartial consideration
 of the records of the state of the society,
 from the year 1727 to the year 1748 inclusive, are obvious, namely:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That during the reign of our present gracious sovereign
 George II. while the great blessing of liberty of conscience,
 and of preaching the gospel freely, is enjoyed,
 the testimony of truth gains esteem in various places,
 and the wrong apprehensions of many concerning Friends, are removed.
 
+[.numbered]
 2+++.+++ The chief sufferings of Friends are for tithes, priests maintenance,
 and other ecclesiastical demands, and during these twenty-one years,
 there have been but six prisoners on this account.
 
+[.numbered]
 3+++.+++ That sometimes the priests take their tithes both in a cruel and in an illegal manner,
 which brings hardships on the poor (which most frequently happened
 in the province of Ulster) and the rather because various priests
 set their tithes to wicked and vexatious persons.
 
+[.numbered]
 4+++.+++ It is not less worthy of observation, that in this calm summer-season,
 when the severe penalties of fines and imprisonments formerly inflicted on Friends,
 for not daring to forsake the assembling themselves
@@ -272,6 +279,7 @@ that a conformity to the vain and corrupt fashions of the world prevails among t
 and a coolness of zeal in attending the meetings
 of worship and discipline among those of riper years.
 
+[.numbered]
 5+++.+++ Though a faithful few be preserved alive to mourn over the declining multitude, yet,
 as the negligence before-mentioned is undoubtedly an inlet to many evils,
 these sometimes break forth openly, to the great obstruction of the progress of truth,
@@ -279,4 +287,7 @@ and stumbling-blocks are thrown in the way of the sincere inquirer: nevertheless
 while a wholesome discipline is continued to be exercised on offenders,
 the society is no longer justly chargeable with the scandal hereby given.
 
-Finis.
+====
+
+[.the-end]
+Finis
