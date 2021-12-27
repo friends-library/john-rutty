@@ -1,5 +1,6 @@
 == Chapter II.
 
+[.chapter-subtitle--blurb]
 From the settlement of Church-discipline to the end of the troubles under
 King James 2. The progress and increase of Friends in a state of suffering.
 Their peculiar zeal and steadiness in keeping up their Meetings for Divine
@@ -26,8 +27,8 @@ whereupon an order of council was obtained for the release of those that were im
 
 For a more minute account of the sufferings of Friends
 on the above-mentioned and other occasions,
-I must refer my reader to the Account of the Sufferings
-of the People called Quakers in Ireland,
+I must refer my reader to the [.book-title]#Account of the Sufferings
+of the People called Quakers in Ireland,#
 from the year 1655 to the end of the reign of King George I. published in Dublin, 1731.
 
 The following instance however of the innocency of the sufferers on the one hand,
@@ -60,6 +61,9 @@ lived at the castle, where a garrison of soldiers was then kept:
 the following part of this narrative I shall give
 in the said John Bank`'s own words from his journal,
 viz.
+
+[.embedded-content-document]
+--
 
 When I was ready to go from the inn where we lodged, the landlady said to me,
 "`For God`'s sake go not along the street,
@@ -98,6 +102,8 @@ thou art out of the doctrine of Christ and so no minister of Christ, but of anti
 and so of thy father the devil,
 and therefore thou art the deceiver and the deluder of the people.`"
 Upon which the priest`'s mouth was stopped.
+
+--
 
 And then John had an opportunity of declaring truth to the people;
 yet the governor committed him and two more to prison: but the jailer was favourable,
@@ -224,6 +230,9 @@ from whose journal the following passage will serve to give the reader
 a just idea of the devout disposition of Friends in those days,
 viz.
 
+[.embedded-content-document]
+--
+
 The general half-year`'s meeting at Dublin, began on the Fourth-day of the week,
 at the ninth hour in the morning,
 and the meeting for worship continued until after the first hour.
@@ -246,6 +255,8 @@ But early next morning Friends went about the business of the meeting,
 and continued at it the greatest part of that day, and the next day also,
 when it was concluded, viz. on the Seventh-day of the week, in the evening,
 having been generally carried on in much unity and harmony.
+
+--
 
 The said Friend further relates, that besides several public meetings for worship,
 and some at Friends`' houses in Dublin,
@@ -280,8 +291,11 @@ and being moved to go to Londonderry, having a particular message to that place,
 she published the same in their public worship house, and for so doing was imprisoned;
 but committed to writing, and left with them, the following lines:
 
-A Few Words as a Warning From the Lord to the Inhabitants of Londonderry,
-and also to the Whole Nation of Ireland.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== A Few Words as a Warning From the Lord to the Inhabitants of Londonderry, and Also to the Whole Nation of Ireland.
 
 Oh, repent, repent! for a terrible day from the Lord is approaching,
 wherein the hearts of many shall fail, terror shall lay hold upon them,
@@ -329,16 +343,20 @@ but shall not find him,
 and then shall ye know that I have not written these lines of myself,
 but the Lord God hath sent me to proclaim these things in your ears.
 
+[.signed-section-signature]
 Judith Boulby.
 
+[.signed-section-context-close]
 7th Month, 1679.
+
+--
 
 This year (1680) died William Morris of Castlesalem in the county of Cork; who,
 though a man of great parts and wisdom, was convinced of truth by a weak instrument.
 He was serviceable upon many occasions with the government
 in appearing on behalf of suffering Friends,
 though he was also divers times a sufferer in bonds for his testimony.
-He wrote an excellent short treatise entitled, Tithes No Gospel Ordinance.^
+He wrote an excellent short treatise entitled, [.book-title]#Tithes No Gospel Ordinance#.^
 footnote:[See a further account in 1656, page 104.]
 
 This year (1682) Friends of the three provinces made collections,
@@ -544,13 +562,16 @@ on which occasion; they petitioned the lord-lieutenant and council.
 This year (1684) was published an account of Friends`' sufferings on the occasions aforesaid,
 and ordered to be sent into the several provinces.
 
-Likewise this year, Thomas Ellwood`'s book, called A Dissuasive From Persecution,
+Likewise this year, Thomas Ellwood`'s book, called [.book-title]#A Dissuasive From Persecution,#
 was printed at a national charge.
 
 The same year died Thomas Carleton, at Ballynacarrick in the county of Wicktow,
 who was convinced in Cumberland about the year 1663,
 before which he underwent great conflicts of soul,
 which I shall describe in his own words from one of his treatises, viz.
+
+[.embedded-content-document.treatise]
+--
 
 I was early visited by the love and tender mercy of the Lord,
 which often presented unto me my state and manner of life,
@@ -615,8 +636,8 @@ which I saw to be only formal and traditional, and no less than idolatry,
 as they then stood in the will-worship,
 being prescribed and set forth at the wills and pleasures of men,
 and established by the then present powers, government and authority;
-as the Independent Church Faith, the Presbyterian Directory,
-and the Common Prayer Book of the Episcopals may fully testify;
+as the [.book-title]#Independent Church Faith,# the [.book-title]#Presbyterian Directory,#
+and the [.book-title]#Common Prayer Book# of the Episcopals may fully testify;
 none being to question or object against any thing that
 was or is believed by their several churches and assemblies,
 or prescribed by their rules or canons,
@@ -632,8 +653,13 @@ knowing the Lord is come to teach his people himself;
 whereof I being persuaded in my own heart,
 was at length constrained to yield and resign myself unto the will of the Lord.
 
+--
+
 So far Thomas Carleton, respecting himself:
 let us now hear testimony of the brethren concerning him.
+
+[.embedded-content-document.testimony]
+--
 
 He came to Ireland about the year 1673, was a very zealous, honest friend,
 and an able minister; having a divine gift to administer from,
@@ -645,9 +671,8 @@ and ready to prefer others before himself.
 He usually stood up in great fear and dread,
 when he was exercised under the powerful word of life.
 He was valiant in asserting and defending truth against the opposition of its enemies,
-and patient in suffering for it, as appears from a small tract he published, entitled,
-The Captive`'s Complaint,
-or The Prisoner`'s Plea Against the Burdensome and Contentious Title of Tithes,
+and patient in suffering for it, as appears from a small tract he published, entitled, [.book-title]#The Captive`'s Complaint,#
+or [.book-title]#The Prisoner`'s Plea Against the Burdensome and Contentious Title of Tithes,#
 etc. wherein are laid down several grounds and reasons against the propriety
 and payment of tithes in this evangelical day and dispensation.
 He also published some other small pieces,
@@ -661,6 +686,8 @@ and those for Christian discipline, and great unity and peace was amongst them;
 great numbers also of other people came to our public meetings,
 and Friends gained credit among many sober persons,
 notwithstanding the prejudice and railing of the other dissenters who fled into corners.
+
+--
 
 There being a great resort to our meetings about this time
 (1687) one James Barry an independent preacher raged,
@@ -680,6 +707,10 @@ and be helpful to bring forth justice, judgment, and righteousness.
 And on this occasion George Fox wrote a letter to William Edmundson,
 dated from Kingston upon Thames, 1687, to this purpose:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear William,
 
 As for those Friends of Dublin, Cork, Limerick,
@@ -700,7 +731,10 @@ and be a terror to them that do evil, and a praise to them that do well,
 and preserve every man both in his natural rights and properties,
 and in his divine rights and liberty, according to the righteous law of God, etc.
 
+[.signed-section-signature]
 George Fox.
+
+--
 
 The latter end of this year (1688) a war broke forth in this nation,
 threatening a general overthrow of all the English and Protestants,
@@ -784,6 +818,10 @@ and Friends underwent those abuses in common with other Protestants.
 Here follows a particular account of the sufferings
 and preservation of Friends in those days.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ At the town of Cavan (a place that lay open to both the armies,
 and to the cruelty of the wicked rabble),
 several Friends kept their places and dwellings, and held their usual meetings,
@@ -793,11 +831,13 @@ though in their outward substances they were spoiled and stripped,
 and at last commanded by the chief officer of the Irish army to depart,
 and their houses were burnt.
 
+[.numbered]
 2+++.+++ At Old Castle, a place liable to the like perils, a few Friends dwelt,
 who kept up their little meetings,
 (which belonged to Cavan monthly meeting) and continued there;
 their lives were also wonderfully preserved.
 
+[.numbered]
 3+++.+++ Near Charlemont, in the county of Tyrone,
 Friends thereabouts generally kept their places, and particularly John Whiteside,
 whose family wonderfully escaped the hands of cruelty with their lives,
@@ -809,18 +849,21 @@ and he and his son lying sick in another so near,
 that it was admirable both it and they were not burnt;
 and yet the Irish were forced to withdraw, who plundered Friends and burnt their houses.
 
+[.numbered]
 4+++.+++ One Thomas Greer, a Friend,
 lost his life by a shot made into his mother`'s house in the night,
 by a parcel of Rapparees coming to rob the house, as was supposed;
 and Friends of Ulster have left this testimony concerning the said Thomas Greer,
 that he was an honest friend, and zealous for truth.
 
+[.numbered]
 5+++.+++ Near Edenderry (an open place much exposed to the Rapparees)
 Friends were greatly spoiled in their flocks and stocks,
 and outward substance, but their lives were wonderfully preserved,
 though the bloody ravenous Rapparees broke in upon the town one night,
 and burnt part of it, and killed some of the inhabitants.
 
+[.numbered]
 6+++.+++ At and near Rossenallis,
 in the Queen`'s county (a place that lay open to the like cruel sort of men),
 William Edmundson and several other Friends kept their places;
@@ -874,6 +917,7 @@ upon giving security for the said William Edmundson,
 prevailed on the governor to let him and his sons go with him to his house at the Moate;
 and in a little time after they were set at liberty.
 
+[.numbered]
 7+++.+++ At Moate Granoge, John Clibborn aforesaid,
 at whose house a meeting was settled by turn, kept his place long in much danger,
 and so did most Friends of that meeting, which they still kept up in great difficulty,
@@ -893,6 +937,7 @@ who plundered his house in the night, threatening to cut his head off;
 and at last he and other Friends were driven from their places,
 and their houses were burnt.
 
+[.numbered]
 8+++.+++ Anthony Robinson and John Miller, dwelling three miles from Athlone,
 had their houses plundered by the Irish,
 and afterwards they and their families were threatened to be murdered;
@@ -907,6 +952,7 @@ sought for and hunted by the blood-thirsty Irish Rapparees,
 but their lives were miraculously preserved,
 and with great difficulty they got to the aforesaid John Clibborn`'s house at the Moate.
 
+[.numbered]
 9+++.+++ Mountmellick and Montrath,
 two country unwalled towns (where two considerable meetings of Friends have been settled),
 by reason of their bordering upon the bogs and mountains,
@@ -923,6 +969,7 @@ considering how their houses were filled with people,
 and many alarms came from the Irish, threatening to destroy those places,
 and kill all the English.
 
+[.numbered]
 10+++.+++ Cloncourse, a lonesome place, where Christopher Raper dwelt,
 having some walls of defence, and a small English garrison of soldiers being there,
 was a little shelter to a small number of Friends who dwelt near it,
@@ -930,6 +977,7 @@ and used to meet by turns in that place, who suffered great hardships,
 having lost most of what outward substance they had, and provisions being scanty,
 were visited with a pestilential fever, and they were greatly straitened for room.
 
+[.numbered]
 11+++.+++ James Hutchinson dwelt at Knockballymagher, near Cloncourse,
 and kept his place till a party of Rapparees, with some of the Irish standing army,
 came in the daytime, plundered and burnt his house, took him,
@@ -939,6 +987,7 @@ and compelled him to ransom his life, and then let him go in great hazards (by t
 several English, both Friends and others, met with such like usage in those times).
 His house had been of great use to the English.
 
+[.numbered]
 12+++.+++ Gershon Boat, dwelling at Borrisalcagh, remote from Friends,
 and ten miles from any meeting, in a place of some strength, suffered many hardships,
 and escaped many dangers, both at home, and on the road going to meetings;
@@ -951,6 +1000,8 @@ and stripped in the Irish quarters where they dwelt:
 kept his place till general Dayly placed a garrison at his house or castle,
 and then with great difficulty and danger removed his family to Montrath aforesaid,
 to live or die with Friends, times looking very dismal.
+
+====
 
 These particulars may shew the eminent providential hand of the Lord over Friends,
 and his care and kindness to preserve them in the midst of such great perils,
@@ -1008,8 +1059,8 @@ that their brethren in England had been by him set at liberty from their impriso
 and that king James on that occasion did declare,
 that it was always his principle that conscience ought not to be forced,
 but that all men ought to have the liberty of their consciences;^
-footnote:[Sewel`'s History of the Quakers, Vol.
-2, page 439.]
+footnote:[[.book-title]#Sewel`'s History of the Quakers, Vol.
+2,# page 439.]
 however, as Sewel observes,
 "`perhaps that prince did not consider that if such a general liberty had been procured,
 he should not have been able to have made it continue longer
@@ -1023,8 +1074,8 @@ but that this work was reserved for that great prince, king William,
 who being born in a country where force upon conscience was abrogated,
 when a Protestant government was settled there,
 now also introduced the like Christian liberty in England.`"^
-footnote:[Sewel, Vol.
-2, page 439.]
+footnote:[[.book-title]#Sewel, Vol.
+2,# page 439.]
 
 This year (1690) died George Gregson, at his house in Lisnegarvy in the county of Antrim.
 He was born a Papist, in Lancashire, as I am assured, but being convinced of truth,
@@ -1060,6 +1111,9 @@ which many waited for, and were in readiness to receive, with joy and gladness o
 among whom was this our friend, whose convincement and spiritual exercise thereupon,
 as he hath himself described it in his own journal,
 I shall here present the reader with somewhat abridged, but his own words retained, viz.
+
+[.embedded-content-document]
+--
 
 In the year 1653,
 it pleased the Lord to send his faithful servant
@@ -1181,8 +1235,13 @@ and became instruments in the Lord`'s hand to bear witness unto
 the world of the day of the Lord that was broken forth again,
 even of the great and notable day that Joel prophesied of, and Peter bore witness unto.
 
+--
+
 So far J. Burnyeat concerned himself:
 let us now hear what testimony the brethren have given of him.
+
+[.embedded-content-document.testimony]
+--
 
 He was (say they) a man of an excellent spirit and deep experience
 in the things of God and mysteries of his heavenly kingdom,
@@ -1263,3 +1322,5 @@ He laid down his head in peace with God and love to his people,
 and good-will to all mankind, in the fifty-ninth year of his age,
 and was buried at New-Garden, being accompanied by many ancient Friends and others,
 where his eminent and faithful services were commemorated by William Edmundson.
+
+--

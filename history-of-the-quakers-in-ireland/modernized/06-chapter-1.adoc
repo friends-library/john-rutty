@@ -1,6 +1,7 @@
 == Chapter I.
 
-From the first appearance of this People in Ireland,
+[.chapter-subtitle--blurb]
+From the first appearance of this people in Ireland,
 to the settlement of church-discipline among them in the year 1669;
 wherein is given an account of the first ministering Friends who visited Ireland,
 and their labours in the gospel; (and particularly of William Edmundson);
@@ -27,7 +28,7 @@ light with which Christ had enlightened man,
 and in the latter end of the time of king Charles I. began to increase in number,
 and became a separate society among men,
 distinguished by the scornful appellation of Quakers,`" for an account
-of whose particular doctrines the reader is referred to Barclay`'s Apology.
+of whose particular doctrines the reader is referred to Barclay`'s [.book-title]#Apology.#
 
 The present undertaking may therefore perhaps be prejudged by some as superfluous:
 nevertheless, as several occurrences have happened peculiar to Ireland,
@@ -60,6 +61,9 @@ came out of England in the message of the gospel,
 of whom as also of his own inward exercises, trials and sufferings,
 he kept an account in writing,
 which we shall therefore in the first place subjoin with his own words:
+
+[.embedded-content-document]
+--
 
 It pleased the Lord in my youthful days to bring
 me often to a consideration of my soul`'s happiness,
@@ -123,7 +127,7 @@ Now I came to the entry of my goods which was no small exercise to get through,
 because at the custom-house an oath would be required, and when they required it of me,
 I told them I could not swear; for Christ had forbidden it.
 This was a strange thing to them, not having met with the like before; my deportment,
-and speech in using the words Thee and Thou to them,
+and speech in using the words _Thee_ and _Thou_ to them,
 and not putting off my hat was very offensive; but the Lord strengthened me,
 and my mind was towards him, which enabled me to stand in the cross,
 and despise the shame, and so according to my small measure,
@@ -181,6 +185,9 @@ without the true cross of Christ, that should mortify their lusts, wills,
 and vile affections, and crucify them to the world, and the world unto them,
 being at ease in a form of godliness without the real work of the power.
 
+--
+
+[.offset]
 So far William Edmundson.
 
 In the beginning of the year 1654, Miles Halhead, James Lancaster, and Miles Bateman,
@@ -224,7 +231,7 @@ and rulers against Friends as holding damnable doctrines,
 led away with the delusions of Satan, etc. and their conscientious scrupling to swear,
 in obedience to Christ`'s command,
 "`Swear not at all,`" was a strange thing to the people,
-as was also the use of the plain and proper speech of Thou and Thee to a single person,
+as was also the use of the plain and proper speech of _Thou_ and _Thee_ to a single person,
 and refusing to take off their hats,
 as being a testimony of honour and respect due to Almighty God only;
 and few could suffer these things,^
@@ -235,8 +242,8 @@ but God having given them a sight of themselves,
 they saw the whole world in the same glass of truth,
 and sensibly discerned the affections and passions of men,
 and the rise and tendency of things.
-See Penn`'s Rise and Progress of the People called Quakers.
-And in a treatise of the same author entitled No Cross No Crown,
+See Penn`'s [.book-title]#Rise and Progress of the People called Quakers.#
+And in a treatise of the same author entitled [.book-title]#No Cross No Crown,#
 these matters are discussed at large,
 and particularly the true honour excellently distinguished from the vain and worldly.]
 but frequently on these accounts treated them with abusive words,
@@ -245,7 +252,7 @@ The keeping to one price in selling of goods and to the first demand without aba
 was also a great stumbling-block to most,
 and made them decline dealing with them for some time,
 until they saw into the justice thereof.^
-footnote:[Edmundson`'s Journal, Sect.
+footnote:[[.book-title]#Edmundson`'s Journal,# Sect.
 2.]
 But to return to John Tiffin.
 
@@ -371,12 +378,15 @@ and William Wadman.
 
 The aforesaid Elizabeth Fletcher visited Ireland a second time about two years after,^
 footnote:[As this record of the Friends of Ireland may be relied on as authentic,
-the person called Elizabeth Fletcher, who in Sewel`'s History, p. 91.
+the person called Elizabeth Fletcher, who in [.book-title]#Sewel`'s History,# p. 91.
 is said to have died soon after the abuse she received in the year 1654,
 must either have been another of the same name,
 or else it must have been a mistake that she died soon after that time.]
 and Francis Howgil recommended her by the following
 testimony addressed to the Friends of Ireland:
+
+[.embedded-content-document.testimony]
+--
 
 I am glad that my dear and well-beloved sister Elizabeth Fletcher (who is a helper
 and worker in the Lord`'s vineyard) is moved to come to you again,
@@ -384,7 +394,10 @@ who is sound, honest, precious, and of good report in the family of God,
 who I know will be serviceable to the Lord and to you,
 in this his day wherein he is spreading his name through the nations.
 
+[.signed-section-signature]
 Francis Howgil.
+
+--
 
 The said Elizabeth Fletcher having declared Truth in the market-place at Youghall,
 after she had had a large and satisfactory meeting, James Wood, an independent teacher,
@@ -404,10 +417,14 @@ and they went into a retired place, where G. Fox kneeled down and prayed,
 and that the Lord`'s heavenly power and presence was there:
 he told George of several being convinced in Ireland,
 and of the openness among people in the North of that nation to hear the truth declared,
-and of the lack of ministring Friends in the gospel there,
+and of the lack of ministering Friends in the gospel there,
 who hereupon wrote the following epistle to Friends of Ireland,
 and sent it by William Edmundson:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Friends,
 
 In that which convinced you, wait, that you may have that removed you are convinced of;
@@ -416,7 +433,10 @@ in unity one with another, and with God;
 and the peace and wisdom of God fill all your hearts,
 that nothing may rule in you but the life, which stands in the Lord God.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
 
 And W. E. upon his return to Ireland read the foregoing epistle to Friends in a meeting;
 whereupon he further relates that the power of the Lord seized
@@ -527,7 +547,11 @@ spirit and character of the aforesaid Edward Burrough,
 I shall here insert the substance of two papers written by him,
 breathing forth the spirit of evangelical liberty:
 
-To the Judges and Justices and All that Handle the Law.
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== To the Judges and Justices and All That Handle the Law
 
 Christ Jesus is the light of the world, by which every one of you is enlightened,
 which light if you love and be guided by, it will lead you out of the world`'s ways,
@@ -588,16 +612,24 @@ and the nation in good order may be kept, in peace and righteousness,
 and so God will establish you among his children, who are taught of him alone,
 and are far from oppression.
 
+[.signed-section-context-close]
 Written at Dublin the 23rd of the Eighth month, 1655, by
 
+[.signed-section-signature]
 Edward Burrough.
 
-He also wrote another paper entitled, The Unjust Sufferings of the Just Declared,
-and Their Appeal to the Just Witness of God in all Men`'s Consciences,
+--
+
+[.offset]
+He also wrote another paper entitled, [.book-title]#The Unjust Sufferings of the Just Declared,
+and Their Appeal to the Just Witness of God in all Men`'s Consciences,#
 which was as follows:
 
-To All you Colonels and Commanders and Officers,
-and to All the Honest-Hearted in the City of Dublin and Elsewhere, to Whom this May Come.
+[.embedded-content-document.paper]
+--
+
+[.blurb]
+=== To All You Colonels and Commanders and Officers, and to All the Honest-Hearted in the City of Dublin and Elsewhere, to Whom This May Come.
 
 Hereby we the prisoners of the Lord, for the testimony of Jesus,
 and for the exercise of a pure conscience, do lay down our cause before you,
@@ -714,16 +746,19 @@ and shall seal our witness against them,
 and against their unrighteous decrees sealed in their cruelty against the innocent,
 with our blood, if thereunto we be called.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 Dublin, the 26th of the Twelfth Month, 1655.
 
-He also wrote a paper dated from the city of Cork, entitled,
-A Discovery of the Idol Dumb Shepherds in Ireland,
-and a Lamentation over their Starved and Strayed Flocks.
-And another from Catherlough, entitled, An Invitation to All the Poor Desolate Soldiers,
+--
+
+He also wrote a paper dated from the city of Cork, entitled, [.book-title]#A Discovery of the Idol Dumb Shepherds in Ireland,
+and a Lamentation over their Starved and Strayed Flocks.#
+And another from Catherlough, entitled, [.book-title]#An Invitation to All the Poor Desolate Soldiers,
 to Repent, and Make Their Peace With the Lord,
-and their Duty Showed Them What the Lord Requires of Them.
+and Their Duty Showed Them What the Lord Requires of Them.#
 Both which may be seen in his works.
 
 So much may suffice as specimens of the said Edward
@@ -732,8 +767,11 @@ I shall next subjoin an epistle of his to the brethren here,
 both as a specimen of the language and sentiments of Friends in those days,
 and as containing matter not unworthy the attention of those of the present generation:
 
-To All the Seed of God in Ireland, Whom the Lord is Gathering by His Out-Stretched Arm,
-and Making Vessels of His Honour, that He May Dwell with You.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== To All the Seed of God in Ireland, Whom the Lord is Gathering by His Out-Stretched Arm, and Making Vessels of His Honour, that He May Dwell with You.
 
 The grace, mercy, and peace of God be increased among you,
 that the Father may reap fruit of you, who is glorified by bringing forth much fruit:
@@ -849,19 +887,28 @@ The presence of the Lord be among you all,
 and his eternal power give you victory over all your enemies.
 Amen.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 From the common jail in Kingston upon Thames, in the county of Surry,
 the 25th day of the Sixth month, 1657.
 
+--
+
 Concerning the said Edward Burrough and Francis Howgil,
 this testimony is given in the account of the early sufferings of Friends in Ireland:
+
+[.embedded-content-document.testimony]
+--
 
 They were made a blessing to us, the Lord working mightily by them,
 to the turning of many from darkness to light, and from Satan`'s power unto God;
 and their doctrine and conduct was such as truly reached
 unto and answered the witness of God in our consciences;
 and we may praise the Lord on their behalf, who were unto us the messengers of salvation.
+
+--
 
 The same day,
 or a few days after that Edward Burrough and Francis Howgil were banished for England,
@@ -870,7 +917,7 @@ then lorddeputy, and bad him beware he was not found fighting against God,
 in opposing the truth and persecuting the innocent;
 but like wise Gamaliel to let them alone, for if the work was of God, it would stand,
 but if of man, it would fall.^
-footnote:[See Sewel`'s History of the Quakers.]
+footnote:[See [.book-title]#Sewel`'s History of the Quakers.#]
 The deputy heard her moderately,
 so that she perceived the enmity did not lie so much in himself,
 as that he was stirred up to persecution by evil magistrates and priests.
@@ -891,7 +938,7 @@ and had good service in turning many to the Lord,
 particularly John Bowran of Cotherstone in Yorkshire, who landed in Dublin,
 and afterwards travelled into the North.
 He visited Ireland six times in six years.
-See Piety Promoted, Part 3.
+See [.book-title]#Piety Promoted,# Part 3.
 
 About the same time William Edmundson, was moved in spirit to leave off shop-keeping,
 and take a farm, in order that he might, by his own example,
@@ -943,6 +990,9 @@ The state of Friends in general, about this time,
 and some particular memorable transactions at Belturbet,
 are so minutely described in the journal of W. E.
 that I shall here insert them in his own words:
+
+[.embedded-content-document]
+--
 
 Now truth was much spread, and meetings settled in several places,
 many being convinced and brought to the knowledge of God, were added to Friends;
@@ -1097,6 +1147,8 @@ but confessed our faith and principles, and at that time was discharged from his
 because he was a Quaker; he was a worthy, wise man, had a testimony in our meetings,
 and died in the faith of Jesus.
 
+--
+
 Thomas Loe, who was a lively minister of Christ Jesus, and could divide the word aright,
 came over this year (1657) from Oxford in England, and had good service in Munster,
 and from there travelled to Dublin on foot,
@@ -1201,6 +1253,9 @@ Christopher and John Raper being convinced.
 The state of Friends this year (1661) is described in the following words,
 by W. E. in his journal, p. 39, 40.
 
+[.embedded-content-document]
+--
+
 Now was king Charles coming in, and these nations were in heaps of confusion,
 and ran upon us as if they would have destroyed us at once, or swallowed us up;
 breaking up our meetings, taking us up in high-ways, and haling us to prison;
@@ -1212,6 +1267,8 @@ goodness and covenant of light and life,
 contented in the will of God; for we had many heavenly, blessed meetings in prison,
 and the Lord`'s presence with us, to our great comfort and consolation in him,
 who wrought liberty for us in his own time.
+
+--
 
 This year (1664) John Burnyeat aforementioned,
 came over a second time and visited Friends in many parts of the nation,
@@ -1232,6 +1289,9 @@ granting them their liberty when it was in their power.
 
 The state of Friends at this time (1665), about Mountmellick,
 is thus described in William Edmundson`'s journal:
+
+[.embedded-content-document]
+--
 
 I having my liberty, found a concern on my mind,
 to solicit the government against the priests`' fierceness and cruelty:
@@ -1318,6 +1378,8 @@ Now this quieted the priest, and it soon went abroad,
 that the Quakers had the liberty of their religion, which was a great ease to Friends,
 for we had been often imprisoned, and had much goods taken from us on that account.
 
+--
+
 In the year 1666 a certain person,
 who afterwards became very conspicuous for his good
 services both to the church and to mankind in general,
@@ -1341,9 +1403,13 @@ upon bond for his good behaviour; which he refusing, was, with about eighteen ot
 committed to prison.
 He had, during his abode in Ireland,
 contracted an intimate acquaintance with many of the nobility and gentry, and,
-being now a prisoner, wrote the following letter
+being now a prisoner, wrote the following letter:
 
-To the Earl of Orrery, Lord President of Munster.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== To the Earl of Orrery, Lord President of Munster
 
 The occasion may seem as strange as my cause is just;
 but your lordship will no less express your charity in the one,
@@ -1404,9 +1470,13 @@ If in this case I may have used too great a liberty, it is my subject,
 nor shall I doubt your pardon, since by your authority I expect a favour,
 which never will be used unworthy an honest man, and
 
+[.signed-section-closing]
 Your Lordship`'s faithful, etc.
 
+[.signed-section-signature]
 W+++.+++ Penn.
+
+--
 
 His request in the letter, so far as related to himself, was quickly granted,
 for the earl forthwith ordered his discharge.
@@ -1416,8 +1486,8 @@ that it strengthened him in his resolution of a closer union with that people,
 whose religious innocence was the only crime they suffered for.
 And now his more open joining with the Quakers,
 brought himself under that reproachful name.^
-footnote:[See Penn`'s Works, Vol.
-1.]
+footnote:[See [.book-title]#Penn`'s Works, Vol.
+1.#]
 
 From the year 1665 to 1668,
 it does not appear that Friends were under any great sufferings, except by the priests,
@@ -1457,6 +1527,9 @@ in the following year.
 In the mean-time, in the year: 1668, died that eminent minister of Christ, Thomas Loe,
 concerning whom the Friends of Ireland have left the following testimony:
 
+[.embedded-content-document.testimony]
+--
+
 He was a man of an excellent gift, sound, clear, and powerful in his ministry,
 elegant in speech, sharp and quick in his understanding,
 and his testimony was very convincing, to the stopping the mouths of gainsayers.
@@ -1477,7 +1550,9 @@ after which when his service was finished, he returned to England,
 and laid down the body at London in great peace,
 singing praises to the Lord on his deathbed.
 
-A more minute account of this may be seen in the first part of Piety Promoted.
+--
+
+A more minute account of this may be seen in the first part of [.book-title]#Piety Promoted.#
 
 The county of Wicklow, which had been formerly visited by Thomas Loe and John Edwards,
 was this year, 1669, visited again by J. Haydock and some other Friends,
@@ -1514,6 +1589,9 @@ in renouncing the idolatry of the church of Rome.]
 
 George Fox in his journal gives the following account of this visit:
 
+[.embedded-content-document]
+--
+
 The priests and magistrates were envious, but the Lord disappointed their counsels,
 and gave us many sweet and blessed opportunities
 to visit Friends and spread truth in that nation.
@@ -1521,7 +1599,9 @@ Meetings were large, Friends coming to them far and near: many were reached,
 and convinced and gathered to the truth, and Friends greatly refreshed.
 Oh the brokenness that was among them in the flowings of life! so that in the power
 and spirit of the Lord many together broke out into singing with audible voices.^
-footnote:[See George Fox`'s Jounal.]
+footnote:[See [.book-title]#George Fox`'s Jounal.#]
+
+--
 
 The said George Fox had a singular gift in church discipline,
 and having in the year 1667 recommended the setting
@@ -1577,7 +1657,7 @@ and spoke as follows: "`Woe to these idolatrous worshippers:
 God has sent me this day to warn you and to show you what will
 be your portion except you repent;`" which when he had done,
 he went away to the town, where he was presently made a prisoner.^
-footnote:[Sewel`'s History.]
+footnote:[[.book-title]#Sewel`'s History.#]
 
 Another transaction of the said Solomon Eccles recorded by the same historian,
 A+++.+++ D. 1670, and a memorable instance of his zeal against time-serving, was as follows;

@@ -1,5 +1,6 @@
 == Chapter III.
 
+[.chapter-subtitle--blurb]
 From the end of the troubles under King James the Second,
 to the passing the Act of Parliament for registering the meetinghouses of Friends,
 in common with those of other dissenters, under the reign of King George the First,
@@ -70,12 +71,17 @@ for the preservation of one another, which wrought to good effect.
 In 1694, John Banks visited this nation in the work of the ministry,
 and in one of his epistles recorded in his journal, is the following remark:
 
+[.embedded-content-document.epistle]
+--
+
 The Lord has here a blessed zealous people for his name and truth,
 filled with love to his servants, largely manifested to us,
 in accompanying us from one meeting to another,
 from ten to twenty and above in company at one time, the length of twenty five miles,
 even in the time of harvest;
 and three travelled from Dublin with us above one hundred miles.
+
+--
 
 It was observed at the Third month national meeting, in 1695,
 that no one friend was a prisoner through the nation,
@@ -125,6 +131,9 @@ we have also a remarkable testimony concerning the zeal of Friends of this natio
 in prosecuting a strict and close discipline, from the men`'s meeting of Bristol,
 in an epistle of theirs to the national meeting here, in these words:
 
+[.embedded-content-document.epistle]
+--
+
 Your love to the holy cross of our Lord Jesus,
 and your zeal for promoting the way thereof, by a strict and close discipline,
 is that which is much needed in many places;
@@ -134,15 +143,17 @@ God Almighty has blocked up their way, and spoiled the spoiler,
 and manifested their folly to all,
 the necessity of a holy care in the church of Christ more and more daily appearing.
 
+--
+
 This year (1698) William Penn among others visited this nation;
 and some time after his arrival, John Plympton, a certain tenacious Baptist disputant,
-published a paper, entitled, A Quaker No Christian:
-to which William Penn replied under the title of, The Quaker a Christian;
+published a paper, entitled, [.book-title]#A Quaker No Christian:#
+to which William Penn replied under the title of, [.book-title]#The Quaker a Christian;#
 and in order the more effectually to wipe off that adversary`'s aspersions,
-he also wrote and dispersed a paper entitled,
-Gospel-Truths Held by the People Called Quakers, subscribed by himself, Thomas Story,
+he also wrote and dispersed a paper entitled, [.book-title]#Gospel-Truths Held by the People Called Quakers,#
+subscribed by himself, Thomas Story,
 Anthony Sharp, and George Rooke, at Dublin;
-which may be seen in the second volume of William Penn`'s Works,^
+which may be seen in the second volume of [.book-title]#William Penn`'s Works,#^
 footnote:[In two Vols.
 Folio.
 1726.]
@@ -154,8 +165,13 @@ signed by himself and his two fellow-labourers,
 as likewise a remarkable testimony concerning the Friends of Ireland:
 here follows a copy of it from his works:
 
-To the Yearly-Meeting at London.
+[.embedded-content-document.epistle]
+--
 
+[.letter-heading]
+To the Yearly-Meeting at London
+
+[.salutation]
 Dear Friends and Brethren,
 
 It is not the least of our exercises, that we are thus far outwardly separated from you,
@@ -234,22 +250,35 @@ nor distance wear out of our remembrances,
 and in which we desire to be remembered of you to the Lord of our household,
 we dearly and tenderly salute you, and remain
 
+[.signed-section-closing]
 Your loving and faithful brethren,
 
+[.signed-section-signature]
 William Penn
 
+[.signed-section-signature]
 John Everott
 
+[.signed-section-signature]
 Thomas Story
 
+[.signed-section-context-close]
 Lambstowne, 2nd of the Fourth month, 1698.
 
+--
+
+[.offset]
 William Perm also sent the following epistle to Friends of this nation,
 after his return to England.
 
-Bristol, 13th of the Eighth Month, 1698.
+[.embedded-content-document.epistle]
+--
 
-My Dear Friends, Brethren, and Sisters of the Nation of Ireland.
+[.blurb]
+=== My Dear Friends, Brethren, and Sisters of the Nation of Ireland
+
+[.signed-section-context-open]
+Bristol, 13th of the Eighth Month, 1698.
 
 Much beloved in the Lord,
 and often remembered for his name`'s sake since I saw your faces,
@@ -325,7 +354,10 @@ so my dearly beloved in the Lord, I take my leave of you, and bid you farewell, 
 
 Your faithful friend and brother, in the fellowship of the blessed truth,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 Many Friends of the ministry from abroad, visited this nation this year 1699;
 among whom was Mary Mitchel, who went into sundry public places of worship,
@@ -373,13 +405,20 @@ the truth of which has been abundantly confirmed by the experience of succeeding
 
 The epistle is here annexed, whereof two thousand were printed for public service.
 
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
 === An Epistle to Friends, Given Forth From Leinster Province Meeting, in Ireland, Held at Castledermot, the 9th, 10th, and 11th Days of the Seventh Month, 1698.
 
-"`Love not the world, neither the things that are in the world.
-If any man love the world, the love of the Father is not in him,`" 1 John 2:15.
+[.centered]
+_"`Love not the world, neither the things that are in the world.
+If any man love the world, the love of the Father is not in him,`" 1 John 2:15._
 
-=== The Preface.
+[.letter-heading]
+The Preface
 
+[.salutation]
 Dear Friends,
 
 The following epistle is recommended to be read in the fear of the Lord,
@@ -426,9 +465,11 @@ of this world) within the bounds of truth:
 which is the earnest desire of one that desires the good and preservation of all,
 in that which will tend to the glory of God, and bring everlasting comfort in the end.
 
+[.signed-section-signature]
 Thomas Trafford.
 
-To All Our Dear Friends and Brethren in this Nation of Ireland, and Elsewhere.
+[.letter-heading]
+To All Our Dear Friends and Brethren in this Nation of Ireland, and Elsewhere
 
 The salutation of our dear love in the Lord Jesus Christ, in tender compassion,
 flows forth to the whole heritage of God,
@@ -669,23 +710,21 @@ And he that has done this for us is perfecting what is lacking,
 that he may present us to God the Father faultless to whom be praises forever.
 Amen.
 
+[.signed-section-closing]
 Subscribed, in behalf of the meeting, by
 
+[.signed-section-signature]
 John Pim,
-
 William Edmundson,
-
 George Rooke,
-
 Thomas Trafford,
-
 Thomas Wilson,
-
 Roger Roberts.
 
-Postscript.--
+[.postscript]
+====
 
-At the first, when the Lord called and gathered us to be a people,
+Postscript.--At the first, when the Lord called and gathered us to be a people,
 and opened the eyes of our understandings, then we saw the exceeding sinfulness of sin,
 and the wickedness that was in the world;
 and a perfect abhorrence was fixed in our hearts against all the wicked, unjust, vain,
@@ -758,7 +797,12 @@ which many have had and refused for truth`'s sake,
 and the Lord has accepted as an offering, and rewarded to their great comfort,
 and to the praise of his great name.
 
+====
+
+[.signed-section-signature]
 William Edmundson.
+
+--
 
 In the Sixth and Seventh month this year, 1669,
 W+++.+++ Edmundson and George Rooke performed a visit to the North, and to Connaught,
@@ -818,7 +862,7 @@ and one in another, giving account of their service,
 and that a door was opened in those remote places to receive truth,
 and the messengers of it, and the peace and satisfaction they enjoyed from God,
 the rewarder of his faithful labourers.^
-footnote:[See a further account of this journey in William Edmundson`'s Journal.]
+footnote:[See a further account of this journey in [.book-title]#William Edmundson`'s Journal.#]
 
 This year (1700) also,
 William Edmundson and George Rooke performed another
@@ -826,7 +870,7 @@ visit to several parts of the province of Connaught,
 being a journey of about 342 miles,
 of which a particular account may be seen in W. Edmundson`'s journal.
 
-Barclay`'s Apology, printed in London,
+Barclay`'s [.book-title]#Apology,# printed in London,
 was this year ordered to be distributed among strangers.
 
 This year died James Greenwood and Ann his wife, of Grange in the county of Antrim,
@@ -1030,7 +1074,7 @@ And in the year 1708,
 a like general visit was made through the meetings in the province of Munster,
 with good effect.
 
-This year (1708) Joseph Pike published a Treatise on Baptism and the Lord`'s Supper,
+This year (1708) Joseph Pike published a [.book-title]#Treatise on Baptism and the Lord`'s Supper,#
 which, though ordered to be printed at a national charge,
 the author chose to do at his own cost.
 
@@ -1095,7 +1139,7 @@ that he might have less rent and encumbrance lying on him.
 In the year 1678, a meeting was settled at his house,
 which caused the said archdeacon Plummer, and Richard Boyle,
 bishop of Leighlin and Femes, to be angry, and soon after he was sued in their court,
-and taken by a writ de excomunicato capiendo,
+and taken by a writ _de excomunicato capiendo,_
 for refusing to pay one pound sixteen shillings,
 demanded towards the repairs of the worship house at Fenagh;
 but before he was taken to prison, the said Plummer meeting him,
@@ -1202,6 +1246,9 @@ which as it has been abundantly verified among the succeeding professors of the 
 it may be worth while to give a specimen of his sentiments on this head,
 as a hint not useless to many of us:
 
+[.embedded-content-document.letter]
+--
+
 I know, (says he, in a letter to a friend,
 recorded in his journal) that the eagerness after the lawful things of this world,
 at this time, hinders many Friends`' growth in the precious truth,
@@ -1229,6 +1276,8 @@ having oil in their lamps,
 and arising in the brightness of this glorious day of the Lord,
 having their affections set on things above, where Christ is,
 and not on things that be upon the earth, enter with Christ into the wedding chamber.
+
+--
 
 He was a most zealous and faithful labourer in the exercise of his gift,
 for the edification of the churches both at home and abroad;
@@ -1314,6 +1363,9 @@ with a few lines of good news to the several flocks, dated from Jamaica, A. D. 1
 as also a paper concerning offerings to God in prayer and supplication,
 which is here inserted from his journal,
 and recommended to the observation of those whom it concerns:
+
+[.embedded-content-document.paper]
+--
 
 The offerings, that are acceptable to God, must be offered in righteousness,
 and with clean hearts and lips, for the Lord is pure and holy,
@@ -1430,9 +1482,13 @@ and dispensation of the new covenant.
 
 I have travelled under a deep sense and concern in this matter for some time.
 
+[.signed-section-signature]
 William Edmundson.
 
+[.signed-section-context-close]
 The 12th of the First month, 1695.
+
+--
 
 He also wrote an epistle of advice to Friends, which was published in the year 1701,
 containing wholesome caution against many superfluities then creeping in,
@@ -1489,8 +1545,13 @@ and fellow-labourer in the gospel, George Rooke in Dublin,
 on occasion of an intended journey of theirs to the north of Ireland,
 from which his sickness appears to have prevented him.
 
+[.embedded-content-document.epistle]
+--
+
+[.signed-section-context-open]
 Tenele, 1704.
 
+[.salutation]
 Dear Friend G. R.
 
 I received your kind letter per R. S. by which I understand your purpose
@@ -1556,7 +1617,10 @@ but hope it will be accepted.
 My true and hearty love is to you, in the Lord Jesus Christ, whether in life or death,
 the will of the Lord be done.
 
+[.signed-section-signature]
 William Edmundson.
+
+--
 
 Besides other ministering Friends from abroad, Benjamin Holme was here this year,
 and spent seven months in this visit; having meetings pretty frequently among strangers,
@@ -1667,19 +1731,18 @@ he went a second time into Ulster, being accompanied by Alexander Seaton,
 and they visited several places in the county, of Down, as Dunaghadee, Newton-Clanobuys,
 Cummer, etc. having large meetings among the Presbyterians,
 unto whom they were drawn forth, in the love of God, to declare the way of truth.
-Our said friend B. Holme published this year at Dublin,
-A Tender Call and Invitation to All People, to Embrace the Offers of God`'s Love,
+Our said friend B. Holme published this year at Dublin, [.book-title]#A Tender Call and Invitation to All People, to Embrace the Offers of God`'s Love,
 and to Break Off From Those Things that Provoke Him to Anger,
-Before the Day of Their Visitation Pass Over.
+Before the Day of Their Visitation Pass Over.#
 
 This year (1713) it was proposed to the national meeting by Friends of Ulster,
 that they apprehended it might be of service to publish
 something concerning the universal love of God to mankind,
 and against that erroneous principle of absolute predestination to all eternity;
-and accordingly the chapter in Robert Barclay`'s Apology, treating on this subject,
+and accordingly the chapter in Robert Barclay`'s [.book-title]#Apology,# treating on this subject,
 with a preface to it by John Chambers,
 was ordered to be reprinted to the number of two thousand,
-as was also two thousand of Alexander Pyott`'s Apology.
+as was also two thousand of Alexander Pyott`'s [.book-title]#Apology.#
 
 John Hall, of Monktheselden, in the county of Durham, was here this year,
 and besides visiting Friends and others in the three provinces,
@@ -1696,7 +1759,7 @@ namely, intimating that God would speedily pour forth his judgments upon the peo
 for their sins and disobedience:
 in reference to which it may be observed,
 {footnote-paragraph-split}
-lst.
+_1st._
 That the ancient Jews, when a prophet had foretold calamities which did not come to pass,
 made great allowances in their censures of that prophet,
 in considerations of the great mercies of God:
@@ -1714,13 +1777,13 @@ on occasion of the denunciation of the destruction of Sodom, God said,
 "`If there shall be found ten righteous persons in the city,
 I will not destroy it.`"
 {footnote-paragraph-split}
-2ndly.
+_2ndly._
 That the "`judgments of the Lord are a great deep,`" Ps. 36:6. And as to prophecies,
 even several of those recorded in holy Scripture,
 it is no new thing for them to be obscure,
 it being allowed that many of them have not been understood until they were fulfilled.
 {footnote-paragraph-split}
-3rdly.
+_3rdly._
 If it be supposed that some of the persons concerned in these declarations might,
 from their great zeal against sin,
 conclude that the judgments of God were never to
@@ -1745,6 +1808,10 @@ shall be punished with everlasting destruction,`" according to 2 Thess. 1:9.]
 in several cities, towns, and villages in this kingdom, in the Second, Third,
 and Fourth months of this year:
 
+[.embedded-content-document]
+--
+
+[.salutation]
 My friends,
 
 I am come in the dread and fear of the great and Almighty God,
@@ -1761,7 +1828,13 @@ there shall scarcely be a people living found willing to bury them,
 their stench shall be so great.
 Oh repent and turn from your evil ways, that God may show you mercy.
 
-Signed by John Hall.
+[.signed-section-closing]
+Signed by
+
+[.signed-section-signature]
+John Hall.
+
+--
 
 Accounts were given from Ulster,
 that there was a great openness to hear truth declared in many places in that province;
@@ -1793,6 +1866,9 @@ yet his most continued service and labour, was in Dublin,
 where he resided about sixteen years,
 the Friends of which city have given an ample testimony
 concerning him to the following purpose:
+
+[.embedded-content-document.testimony]
+--
 
 He was one whom it pleased the Lord to visit very early;
 in order to prepare and sanctify him as a chosen vessel for his service;
@@ -1830,6 +1906,8 @@ through weakness or sudden temptation,
 and were truly humbled under godly sorrow for the same,
 he was very tender toward them in order to their restoration.
 He departed this life in peace, in the thirty-ninth year of his age.
+
+--
 
 This year also died Sarah Baker, alias Peyton, born at Dudley in Worcestershire,
 on whom it pleased the Lord to bestow a gift in the ministry about the age of twenty-one,
@@ -1886,13 +1964,13 @@ for our conscientious refusal of fighting and swearing, of which hereafter.
 In the mean time the following address was drawn up on the above mentioned occasion,
 and presented:
 
-To Charles Duke of Grafton, and Henry Earl of Galway, Lord`'s Justices,
-and Chief Governors of Ireland.
+[.embedded-content-document.address]
+--
 
-The Humble Address of the People Called Quakers,
-From Their National Half-Year`'s Meeting Held in Dublin, the 10th of the Ninth Month,
-1715.
+[.blurb]
+=== To Charles Duke of Grafton, and Henry Earl of Galway, Lord`'s Justices, and Chief Governors of Ireland. The Humble Address of the People Called Quakers, From Their National Half-Year`'s Meeting Held in Dublin, the 10th of the Ninth Month, 1715.
 
+[.salutation]
 May it please the lords justices,
 
 The many and great privileges continued unto us under the king`'s
@@ -1925,11 +2003,15 @@ that virtue and piety may be encouraged, and the contrary restrained,
 that so his blessing may attend you here in this life,
 and eternal happiness in that to come.
 
+[.signed-section-closing]
 Signed in behalf of said meeting, by
 
+[.signed-section-signature]
 George Rook, Gabriel Clark, John Hoop, John Dennis, John Barcroft, Jacob Fuller,
 Nicholas Harris, Thomas Ducket, William Sandwith, Richard Sealy, Thomas Willson,
 Thomas Lightfoot, Nicholas Lock, Amos Strettell, William Richardson, Eli Crocket.
+
+--
 
 This year Thomas Wilson and several other Friends,
 by approbation of the National meeting,
@@ -1946,6 +2028,9 @@ and for the most part without interruption, except at Kilkenny,
 where great opposition was given, as will appear in the following narrative, which,
 because it also furnishes various entertaining remarks, I here insert,
 as it stands in the said Thomas Story`'s journal.
+
+[.embedded-content-document]
+--
 
 They (at Kilkenny,
 1716) had exercised their violence and disturbance upon Elizabeth Jacob once,
@@ -1992,7 +2077,7 @@ which he had done with great reluctancy.
 
 They then took us from place to place, to find a justice, but none cared to see us;
 till at last we were brought before the mayor, and this Connell,
-who being one of the aldermen, was also a justice of the peace for the city, ex officio.
+who being one of the aldermen, was also a justice of the peace for the city, _ex officio._
 They were a little rough, and pretty high upon us, but the Lord,
 for whose name and cause we were there, kept us over their spirit and power.
 John Boles, John Lackey, Samuel Watson, Thomas Pim, John Pim, Jr.
@@ -2056,10 +2141,8 @@ as well as all others the king`'s Protestant dissenting subjects,
 liberty everywhere in his dominions.`"
 Then they wrote a court order as follows:
 
-City of Kilkenny, fs.
-By John Birch, Esq.
-Mayor of the said city, and Robert Connell, Esq.
-one of his Majesty`'s Justices of the Peace for the said city.
+[.blurb]
+=== City of Kilkenny, fs. By John Birch, Esq. Mayor of the said city, and Robert Connell, Esq. one of his Majesty`'s Justices of the Peace for the said city.
 
 We herewith send you the body of Thomas Story,
 he unlawfully assembling himself with several other persons,
@@ -2069,17 +2152,20 @@ till from there discharged by due course of law;
 and for so doing this shall be your warrant.
 Given under our hands and seals this twenty-eighth day of February, 1716.
 
-John Birch, Mayor,Robert Connell.
+[.signed-section-signature]
+John Birch, _Mayor,_
 
+[.signed-section-signature]
+Robert Connell.
+
+[.signed-section-context-close]
 To the Keeper of his Majesty`'s jail, of the said city, These.
 
+[.offset]
 Here is a copy also of the warrant:
 
-Com.
-Kilken.
-Com. Civit.
-Kilken,By Ebenezer Warren, Esq.
-one of his Majesty`'s justices of the Peace for the said counties.
+[.blurb]
+=== Com. Kilken. Com. Civit. Kilken, By Ebenezer Warren, Esq. one of his Majesty`'s justices of the Peace for the said counties.
 
 Whereas complaint has been made unto me, that a set of people called Quakers,
 are riotously assembled, these are therefore in his Majesty`'s name,
@@ -2092,8 +2178,10 @@ to be dealt with according to law, whereof fail not at your peril,
 and for so doing this shall be your warrant.
 Given under my hand and seal this 27th day of February, 1716.
 
+[.signed-section-signature]
 Ebenezer Warren.
 
+[.signed-section-context-close]
 To the several Constables and Officers, in and through the said Counties.
 
 This justice Warren having all along in parliament (for he was
@@ -2135,13 +2223,13 @@ but aimed at nothing but promotion and worldly honour and glory by it.
 I guessed what he was, and gave him the following lines,
 which he took on a piece of paper with a pencil:
 
+[verse]
+____
 Natural religion was simple first and plain,
-
 Tales made it myst`'ry, offerings made it gain;
-
 Sacrifice and shows were at length prepared,
-
 The priests ate roast-beef, and the people star`'d.
+____
 
 He seemed pleased with the verses.
 Then I told him some people`'s religion made them worse than their natural temper,
@@ -2513,7 +2601,7 @@ their proper objects, where the sense is not imposed upon by false mediums,
 or any depravation in itself;
 for all mankind will conclude a man to be a man at first sight,
 though they may express that thing (or man) by different names as a man, namely,
-anthropos homo,
+_anthropos homo,_
 etc.) then it could not be certainly known whether such a thing as raising the dead,
 making the lame to walk, opening the eyes of the blind, etc. was done at all;
 and as to reason, Christ often uses it; '`No man can serve two masters,`' etc.
@@ -2818,9 +2906,8 @@ should certify the offence (only relating to those of his own sect) to any two j
 or mayor, etc. and then they to grant a warrant and court order,
 which now the mayor granted accordingly, a copy whereof follows:
 
-City of Kilkenny, ss.
-By John Birch, Esq.
-Mayor of the said city.
+[.blurb]
+=== City of Kilkenny, ss. By John Birch, Esq. Mayor of the said city.
 
 Whereas I received a certificate,
 under the hand and seal of the right reverend father in God Thomas lord bishop of Ossory,
@@ -2836,8 +2923,10 @@ there to remain for the space of three months, without bail or mainprize;
 whereof fail not at your peril, and for so doing this shall be your warrant.
 Given under my hand and seal this 17th day of March, 1716.
 
-John Birch, Mayor.
+[.signed-section-signature]
+John Birch, _Mayor._
 
+[.signed-section-context-close]
 To the several Constables and Officers of the said city.
 
 This warrant the same sergeant, which came last in the forenoon to disturb our meeting,
@@ -3009,6 +3098,8 @@ but that evening, the waves being high, went on shore there,
 where we tarried that night at an inn, and next morning went up to Chester,
 and lodged at the Golden Talbot, an inn.
 
+--
+
 [.asterism]
 '''
 
@@ -3045,6 +3136,10 @@ was married by a priest, to a man not in unity with them.
 
 Her paper of condemnation, first mentioned, was as follows:
 
+[.embedded-content-document.paper]
+--
+
+[.salutation]
 Friends and people,
 
 I once thought, that if I might gain all things here below the sun,
@@ -3138,7 +3233,7 @@ I knew not that my strength was departed from me, and so, rashly and resolutely,
 I rushed into the congregation of the dead, as a dog returns to his vomit,
 which thing was displeasing to God, and afflicting to his people,
 and so accomplished my design, which gave date to many miseries and unspeakable sorrows,
-which can never be repaired by only crying peccavi.
+which can never be repaired by only crying _peccavi._
 And the Lord in his justice raised many and strong enemies against me on every side;
 but no lion roared like that in my own bosom, though those without afflicted me sorely;
 from which proceeded frettings, quarrelings, wranglings, and boilings of heart;
@@ -3244,9 +3339,12 @@ the Lord may rest upon me here to the purifying of my soul,
 so that I might rest with him hereafter forever and ever.
 Amen.
 
+[.signed-section-signature]
 Abigail Abbot.
 
-The book called The Spirit of the Martyrs, revived,
+--
+
+The book called [.book-title]#The Spirit of the Martyrs,# revived,
 (1718) being an abridgment of the history of the martyrs, was now ordered to be printed,
 for the benefit of youth and others.
 

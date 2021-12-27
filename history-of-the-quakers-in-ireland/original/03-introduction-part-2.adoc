@@ -1,7 +1,7 @@
 == Part II.
 
 [.heading-continuation-blurb]
-Of the Reformation, and its Gradual Progress, and the Defects yet Attending it.
+Of the Reformation, and its Gradual Progress, and the Defects Yet Attending it.
 
 Of the woeful darkness above described,
 which did for some ages eclipse the brightness of the gospel-day,
@@ -36,10 +36,12 @@ Paris 1671]
 
 In the year 1146 lived Hildegardis, a prophetess,
 and indeed so esteemed by the papists themselves, who among other things^
-footnote:[Fox`'s Eccl.
-History, Vol 1, p. 237-238.]
+footnote:[[.book-title]#Fox`'s Eccl.
+History, Vol 1,# p. 237-238.]
 prophesieth against the priests and prelates of the Romish church thus:
 
+[quote]
+____
 Now is the law neglected among the spiritual people,
 which neglect to teach and do good things; the master likewise and the prelate do sleep,
 despising justice, and laying it aside:
@@ -63,8 +65,8 @@ Then shall justice flourish,
 so that in those days men shall honestly apply themselves
 to the ancient customs and discipline of ancient men,
 and shall observe them as ancient men did.^
-footnote:[Ibid, Vol.
-1, p. 238.]
+footnote:[Ibid, _Vol. 1,_ p. 238.]
+____
 
 A+++.+++ D. 1160, one Waldo, a merchant of Lyons,
 applying himself to the study of the Scriptures,
@@ -73,20 +75,23 @@ and particularly transubstantiation, publicly opposed them.
 His followers, called Waldenses, were grievously persecuted by the reigning power,
 some of them burnt to death, and others scattered into divers countries;
 and indeed they did overspread a great part of Europe,^
-footnote:[Rapin`'s History of England, Vol.
-3]
+footnote:[[.book-title]#Rapin`'s History of England, Vol. 3#]
 by which means (to the glory of God`'s Providence bringing
 good out of evil) the reformation was also spread.
 
+[.offset]
 Among others of their tenets were the following:
 
+[quote]
+____
 That the church of Rome is Babylon spoken of in the Revelation:
 that praying for the dead is vain, and a thing only found out for the lucre of priests:
 that the host is an idol:
 that the feasts and festivals of the saints ought to be rejected:
 that preaching of the word is free to all men called thereunto.^
-footnote:[Fox`'s Ecclesiastical History, Vol.
-l]
+footnote:[[.book-title]#Fox`'s Ecclesiastical History, Vol.
+1#]
+____
 
 And indeed in that dark interval of time, between the year 1170 and 1470,
 many bore a public testimony against the corruption and
@@ -109,10 +114,10 @@ was a great rebuker of the pope and of the filth of his clergy,
 calling him a murderer of souls, a spiller and piller of the flock of Christ,
 affirming that the prelates, bishops, and priests,
 are the cause why the doctrine of Christ is neglected and almost extinct;
-that the clergy have turned the Ten Commandments of God into two words, Da Pecuniam,
+that the clergy have turned the Ten Commandments of God into two words, _Da Pecuniam,_
 or "`Give money;`" and prophesieth that the see of the pope
 shall be thrown down into the deep like a millstone.^
-footnote:[Fox`'s Ecclesiastical History]
+footnote:[[.book-title]#Fox`'s Ecclesiastical History#]
 
 But it were an inexcusable neglect, in a discourse of this kind,
 to suppress one fact redounding to the singular honour of the English nation,
@@ -127,7 +132,7 @@ and afterwards parson of Lutterworth in Leicestershire.
 He flourished in the latter end of king Edward III.
 and the beginning of king Richard II`'s time,
 about 130 years before the reformation of Luther.^
-footnote:[Neal`'s History of the Puritans]
+footnote:[[.book-title]#Neal`'s History of the Puritans#]
 He published certain conclusions against transubstantiation
 and the infallibility of the pope,
 and that the church of Rome was not the head of all other churches.
@@ -136,7 +141,7 @@ and ought to be read by the people.
 He also declared against the establishment of tithes, asserting them to be pure alms,
 and maintained that to restrain men to a prescribed form of prayer,
 is contrary to the liberty granted them by God.^
-footnote:[Neal`'s History of the Puritans]
+footnote:[[.book-title]#Neal`'s History of the Puritans#]
 
 For these and other pretended heresies his books were, by the pope and his cardinals,
 condemned to the flames,
@@ -150,15 +155,17 @@ and it is observable, that the church of England,
 though she embraces Wickliffs doctrines with regard to articles of faith,
 cannot however forbear expressing very little esteem for that doctor,
 because he has combated the hierarchy which she has thought fit to retain.^
-footnote:[Rapin`'s History of England.]
+footnote:[[.book-title]#Rapin`'s History of England.#]
 
 That we may judge how necessary, and at the same time how great and difficult,
 that work of reformation was, which he was instrumental, through God`'s good providence,
 to promote,
 it seems worth our while to look back and consider
 what the state of the church was in those days,
-which is thus described by Fox in his Ecclesiastical History.
+which is thus described by Fox in his [.book-title]#Ecclesiastical History.#
 
+[quote]
+____
 The Scriptures, learning, and divinity, were known but to few,
 and that in the schools only, and there also converted almost all into sophistry.
 Instead of Peter and Paul, men occupied their time in studying Aquinus and Scotus,
@@ -175,6 +182,7 @@ what time there seemed in a manner no one spark of pure doctrine left remaining,
 did the aforesaid John Wickliff, by God`'s providence, rise up,
 through whom the Lord would first waken and raise
 up the world overwhelmed with human traditions.
+____
 
 Walter Brute was another of the first reformers mentioned by the same author,
 who appeared also in king Richard II`'s time, among other truths contending for this,
@@ -238,7 +246,7 @@ the prohibiting the said translation of the New Testament of Tindal,
 and not contented herewith,
 proceeded further to entangle him in their nets and bereave him of his life,
 which at length they effected.`"^
-footnote:[Fox`'s Ecclesiastical History.]
+footnote:[[.book-title]#Fox`'s Ecclesiastical History.#]
 
 However,
 this translation of the Scriptures into the vulgar
@@ -252,8 +260,8 @@ who dispersed the copies privately among their friends and acquaintance:
 and at length Tindal`'s bible, reviewed and corrected by Cranmer,
 was allowed by authority, and in the year 1538, by king Henry Vlll`'s injunctions,
 was set up in all the churches in England, that the people might read it.^
-footnote:[Neal`'s History of the Puritans.
-Vol. 3]
+footnote:[[.book-title]#Neal`'s History of the Puritans.
+Vol. 3#]
 
 Such light was by this means diffused among the people,
 as soon detected many of the abominable corruptions of the Christian doctrine,
@@ -280,9 +288,11 @@ the removal of which is earnestly to be desired.
 To this purpose I think it worth while here to recite
 some part of the memorable speech of John Robinson,
 an Independent minister, on his taking leave of his congregation,
-mentioned in Neal`'s History of the Puritans, in the time of king James 1. A. D. 1620,
+mentioned in [.book-title]#Neal`'s History of the Puritans,# in the time of king James 1. A. D. 1620,
 viz.
 
+[quote]
+____
 Follow me no farther than you have seen me follow the Lord Jesus.
 If God reveal any thing to you by any other instrument of his,
 be as ready to receive it as ever you were to receive any truth by my ministry;
@@ -300,6 +310,7 @@ yet they penetrated not into the whole counsel of God.
 It is not possible that the Christian world should come
 so lately out of such thick antichristian darkness,
 and that perfection of knowledge should break forth at once.
+____
 
 I proceed therefore to the ungrateful talk of specifying
 several instances of the imperfection of the reformation,
@@ -312,6 +323,10 @@ That too much of the pride and covetousness, and some degree of the tyranny,
 of antichrist is still retained, among the men called the clergy of the establishment,
 will be too manifest if we consider,
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ That they also appropriate unto themselves both
 the name and jurisdiction of the church,
 excluding those they call Laicks both from the title and the power annexed to it;
@@ -321,11 +336,13 @@ and that the entire separation of laymen from the ecclesiastical
 assemblies was the genuine effect of the growing pride of the clergy,
 and did not take place until Pope Innocent II`'s time.
 
+[.numbered]
 II. What,
 but the remains of the pride of antichrist hath induced those called Lords-Archbishops
 and Lords-Bishops to assume a lordship over God`'s heritage,
 and to become too little apt to teach, contrary to the primitive injunctions to bishops?
 
+[.numbered]
 III.
 Persecution is another of the vile relics of the pride and cruelty of antichrist;
 and to say the truth,
@@ -363,11 +380,14 @@ both from the pulpit and press.
 They pressed covenant uniformity, yea and uniformity in matters of belief,
 on pain of imprisonment and death itself,
 as appears by their ordinance against what they are pleased to all blasphemy and heresy.^
-footnote:[Neal`'s History of the Puritans, Vol.
-III. p.497-500.]
+footnote:[[.book-title]#Neal`'s History of the Puritans, Vol.
+III.# p.497-500.]
 
+[.numbered]
 IV. I proceed next to consider the covetousness of those
 who call themselves the clergy of the reformed church.
+
+====
 
 What a trade the pope and his dependents exercised with the gospel;
 how gainful to themselves, and oppressive to the people, has been amply shewn above.
@@ -396,6 +416,10 @@ A few more particular instances of covetousness too flagrant,
 and such as are both highly reproachful to a Christian ministry and hurtful to mankind,
 will but too clearly evince what I proposed, viz.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ What is the dispensing with the publication of the bans of matrimony in the congregation,
 by a bishop`'s licence, for a certain sum of money,
 but a corruption of Christian discipline for the sake of filthy lucre?
@@ -408,6 +432,7 @@ and the peace and religious economy of families is destroyed
 through this truly licentious method of marriage,
 and which by a strict; and wholesome discipline, might, in many cases, be prevented.
 
+[.numbered]
 II. What shall we think of their pluralities of benefices, and their non-residence,
 but as reproachful instances of the same spirit of covetousness still subsisting,
 and an express breach of the solemn promise made by every priest at his ordination?
@@ -415,6 +440,8 @@ and an express breach of the solemn promise made by every priest at his ordinati
 he will be ready to use public and private monitions and exhortations,
 as well to the whole as the sick within his cure, as need shall be given,
 and as occasion shall require?`"
+
+====
 
 I have above shewn, that these non-residences and pluralities,
 as likewise the translation of bishops from one city or bishopric to another,
@@ -427,12 +454,16 @@ professing reformation were entirely delivered.
 
 As I look upon this affair, how much soever countenanced or neglected at present,
 to be of great moment,
-I think it worth my while to transcribe here (from Fox`'s Acts
-and Monuments) the sense of a king of England on this matter,
+I think it worth my while to transcribe here (from [.book-title]#Fox`'s Acts
+and Monuments#) the sense of a king of England on this matter,
 viz. Henry III.
 who on this occasion wrote to one of his bishops in the following terms, viz,
 
-The King to the Bishop of Hereford Sendeth Greeting.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== The King to the Bishop of Hereford Sendeth Greeting
 
 Pastors or shepherds are set over their flocks that by exercising
 themselves in watching over them day and night,
@@ -483,7 +514,10 @@ whereunto by office and duty he is bound,
 or that he shall receive any profits which refuseth
 to undergo and bear the burden of the same.
 
+[.signed-section-context-close]
 Witness the king at Hereford, the 1st of June, in the 48th year of our reign.
+
+--
 
 So much for the pride and covetousness;
 I proceed next to consider whether or no some degree of the superstition and
@@ -495,6 +529,10 @@ without any authority from Scripture, And by their participating of idolatry,
 I understand their inordinate and unjustifiable veneration of mere outward signs,
 shadows, and representations.
 
+[.numbered-group]
+====
+
+[.numbered]
 Under the first head I rank the present observation
 of saints days among those of the establishment,
 who though they have justly thrown out the great rabble of Romish saints and saintesses,
@@ -505,10 +543,11 @@ which surely it were now much better to lay aside,
 even as for this very reason was the celebration of the feasts
 appointed on the days of the deaths of the early martyrs,
 being perverted to excess and intemperance, in process of time, laid quite aside.^
-footnote:[Cave`'s Primitive Christianity.]
+footnote:[[.book-title]#Cave`'s Primitive Christianity.#]
 To the same head I refer their dedications of churches,
 and consecrations of grounds and houses.
 
+[.numbered]
 II. Though they have in part thrown out the holy water, one Jewish rite,
 they have thought fit to retain another, viz. the clerical habits,
 which have been before shewn to be derived from the Jews,
@@ -517,14 +556,22 @@ and yet are to this day insisted on as essential.
 What is this but an evident breach of gospel liberty, and a relapse into Jewish bondage,
 the New Testament being entirely silent about these things.
 
+[.numbered]
 III.
 Though they have indeed most justly thrown down the popish altars as well as images;
 yet if we impartially consider the degree of veneration paid by them to
 those two outward signs and shadows commonly called the sacraments,
 it seems to fall very little short of idolizing them.
 
+====
+
+[.offset]
 That this may appear, I offer to their consideration,
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ That there have been raised more controversies and quarrels
 (yea sometimes excommunications and persecutions even to bloodshed),
 on account of these outside things, both betwixt Papists and Protestants,
@@ -535,6 +582,7 @@ but the genuine products of carnal minds preferring forms, shadows, and circumst
 to the power, substance, and essence of things: to the destruction of charity,
 the badge of Christian discipleship?
 
+[.numbered]
 II. The church of Rome indeed is accused of flagrant
 idolatry in falling down to worship a piece of bread;
 and the zeal and indignation of many of the first reformers on this occasion,
@@ -548,6 +596,8 @@ viz. when the children of Israel burnt incense to the brazen
 serpent (though formerly erected by divine appointment),
 he broke it to pieces, and called it by way of contempt, Nehushtan, i. e. a piece of brass.
 But to return,
+
+====
 
 The common snare to catch the first reformers,
 was to ask them what they believed of the sacrament of the altar, and their usual answer,
@@ -573,6 +623,7 @@ Into the body of our Lord,
 And therefore ought to be ador`'d.`"
 ____
 
+[.offset]
 But of the church of England, he says thus;
 
 [verse]
@@ -586,7 +637,7 @@ is a propitiatory sacrifice for the living and dead,
 and a means to deliver souls out of purgatory; but yet,
 when besides the circumstance of kneeling,
 enjoined upon pain of a deprivation of divers civil as well as religious privileges,
-it is also made a viaticum morientium,
+it is also made a _viaticum morientium,_
 or passport for dying sinners when (without authority from Scripture)
 it is dignified by the title of a principal seal of the covenant of grace;
 and when we are told that the worthy receivers do really
@@ -602,7 +653,7 @@ Is not all this an abundant evidence of an inordinate
 and superstitious regard paid hereunto,
 and such as cannot be warranted by authority from Scripture?
 Is not this (in the words of an eminent author)^
-footnote:[Plain Account of the Sacrament of the Lord`'s Supper, published in London,
+footnote:[[.book-title]#Plain Account of the Sacrament of the Lord`'s Supper,# published in London,
 1735.]
 plainly attributing that to a single ceremony, which,
 according to the constant tenor of the New Testament, is due only to an universal,
@@ -636,7 +687,7 @@ But on the contrary, if any have not been baptized,
 he shall not have the honour of this which is called Christian burial; in short,
 when unto the ceremony of baptism is peculiarly annexed regeneration,
 purgation from original sin, and a sure and certain hope of a happy resurrection,
-as it seems to be by the letter of the Common Prayer; it is obvious to remark,
+as it seems to be by the letter of the [.book-title]#Common Prayer;# it is obvious to remark,
 that what the judicious author above quoted has observed concerning the Lord`'s supper,
 is also justly applicable to these accounts of baptism (in
 reality but very little short of the above mentioned accounts
@@ -675,7 +726,7 @@ as another important instance of their falling greatly short of the primitive pa
 
 It might indeed seem rash to affirm that the call and qualifications
 of the ministry of the establishment are merely human and worldly,
-seeing in the book of Common Prayer,
+seeing in the book of [.book-title]#Common Prayer,#
 an essential requisite to the constitution of a deacon is,
 that he declare that he believes he is inwardly moved
 of the Holy Ghost to take upon him that office;
@@ -944,6 +995,8 @@ wherein silence may sometimes be chosen preferably to speaking,
 which I mall express in the words of Barclay, in his 11th Proposition concerning worship,
 viz.
 
+[quote]
+____
 The meeting may be good and refreshful,
 though from the sitting down to the rising up thereof,
 there hath not been a word as outwardly spoken;
@@ -962,6 +1015,7 @@ and therefore it must be rather by a sensible experience,
 and by coming to make a proof of it, than by arguments,
 that such can be convinced of this thing; seeing it is not enough to believe it,
 if they come not also to enjoy and possess it.
+____
 
 So far Barclay, who moreover observes that this worship of God in silence,
 though very different from the divers established invented worships among Christians,
@@ -974,7 +1028,7 @@ whose books are full of the explanation and commendation of this sort of worship
 where they plentifully assert the inward introversion and abstraction of the mind,
 as they call it, from all images and thoughts, and the prayer of the will;
 yea they look upon this as the height of Christian perfection.^
-footnote:[See Barclay`'s Apology, Prop.
+footnote:[See Barclay`'s [.book-title]#Apology,# Prop.
 2, Sect.
 16.]
 
@@ -992,6 +1046,8 @@ but many others, of different ages and countries,
 have also both recommended and practised this worship of Almighty God in silence,
 I shall here subjoin it, viz.
 
+[quote]
+____
 They pretend to great refinements, as to what regards the practice of Christianity,
 and to observe the following rules: to retire much from the conversation of the world:
 to sink themselves into an entire repose and tranquillity of mind.
@@ -1005,6 +1061,7 @@ avoid as much as possible what the world calls innocent pleasures,
 lest they should have their affections tainted by any sensuality,
 and diverted from the love of him who is to be the only comfort, repose, and delight,
 of their whole beings.
+____
 
 I shall conclude my recommendation of silent worship,
 by giving one particular example more of it,
@@ -1033,7 +1090,7 @@ were brought off from the inordinate love of themselves and decking their bodies
 and from affectations of new fashions and modes of dress,
 and from misspending their time at cards, dice,
 and other diversions too common among persons of high rank and quality.^
-footnote:[Apologetic Preface to Archbishop of Cambray`'s Dissertation on Pure Love.]
+footnote:[Apologetic preface to Archbishop of Cambray`'s [.book-title]#Dissertation on Pure Love.#]
 
 So much may suffice concerning the worship of Almighty God:
 it seems next to be of no small importance,
@@ -1067,8 +1124,11 @@ that the "`kingdoms of this world shall become the
 kingdoms of the Lord and his Christ,`" Rev. 11:15,
 shall become accomplished.
 
+[.offset]
 In the mean-time,
 
+[quote]
+____
 It will scarcely be denied that because of oaths the land mourns;
 nor that it is a shameful thing and very dishonourable to the Christian religion,
 that those, who pretend themselves to be the true followers of Christ,
@@ -1086,21 +1146,22 @@ whatsoever is more than yea, yea, and nay, nay, cometh of evil,
 this is applicable also to asseverations made before the magistrate; for distrust,
 and dissimulation are the grounds of going beyond
 a simple affirmation or negation in both cases.^
-footnote:[Treatise of Oaths published in behalf of the people called Quakers, A. D. 1675.]
+footnote:[[.book-title]#Treatise of Oaths# published in behalf of the people called Quakers, A. D. 1675.]
+____
 
 Noble therefore and consistent both with this and the spirit of the ancient Christians
 seems to have been the following testimony of the people called Quakers,^
-footnote:[Treatise of Oaths in behalf of the people called Quakers, A. D. 1675.]
+footnote:[[.book-title]#Treatise of Oaths# in behalf of the people called Quakers, A. D. 1675.]
 viz. "`God hath taught us to speak truth as readily without an oath as with an oath,
 so that for us to swear; were to take God`'s holy name in vain.`"
 
 And that several of the ancient fathers did hold all taking of an oath unlawful,
-is acknowledged by Cave in his Primitive Christianity--Polycarp
+is acknowledged by Cave in his [.book-title]#Primitive Christianity#--Polycarp
 particularly refused to swear because he was a Christian:
 and we are assured, as a thing well known,
 that "`the ancient fathers of the first three hundred years after Christ
 understood the words of Christ to be a prohibition of all sorts of oaths.`"^
-footnote:[Barclay`'s Apology, Prop: 15.]
+footnote:[Barclay`'s [.book-title]#Apology,# Prop: 15.]
 And one of the popes of the fifth or sixth century,
 is said to have been the first author of the institution of swearing
 by the gospel so that the present establishment of oaths,
@@ -1166,14 +1227,16 @@ when they shall arrive at that standard of purity and perfection
 which is prescribed to them in the gospel.
 
 I have now but one thing more to take notice of,
-before I conclude this my introduction to the History of the People called Quakers,
+before I conclude this my introduction to the [.book-title]#History of the People called Quakers,#
 and that is the disposition of the age at that juncture of time,
 when this people made their first appearance in the world,
 as being one considerable cooperating means of making
 way for the reception of their doctrines.
 
+[quote]
+____
 The true church (in the words of William Penn,)^
-footnote:[Rise and Progress of the People called Quakers.]
+footnote:[[.book-title]#Rise and Progress of the People called Quakers.#]
 having fled into the wilderness, did at length make many attempts to return,
 but the waters had yet been too high and her way blocked up,
 and the last age did make considerable advances to a reformation both as to doctrine,
@@ -1283,10 +1346,13 @@ and mixing them with those Divine openings, brought forth a monstrous birth,
 to the scandal of those that feared God, and waited daily in the temple,
 not made with hands, for the consolation of Israel, the Jew inward,
 and circumcision in Spirit.
+____
 
 Thus it appears that the fields were now ripe unto the harvest;
 and as the same author proceeds,
 
+[quote]
+____
 It was about that very time, as you may see in the annals of George Fox,
 that the eternal, wise, and good God was pleased,
 in his infinite love to honour and visit this benighted and bewildered
@@ -1340,8 +1406,8 @@ beyond all forms of breeding, in his behaviour; very temperate, eating little,
 and sleeping less.
 Thus he lived and sojourned among us, and as he lived, so he died;
 and in his last moments was so full of assurance that he triumphed over death.`"
-See Penn`'s Rise and Progress etc. and Ellwood`'s
-Testimony of George Fox prefixed in his journal.]
+See Penn`'s [.book-title]#Rise and Progress# etc. and Ellwood`'s
+and Ellwood`'s [.book-title]#Testimony of George Fox# prefixed in his journal.]
 to an effectual and blessed purpose, can many thousands say,
 "`Glory be to the name of the Lord forever.`"
 
@@ -1364,6 +1430,7 @@ though never more needed to make true Christians: not unlike those Jews of old,
 that rejected the Son of God,
 at the very same time that they blindly professed to wait for the Messiah to come;
 because, alas, he appeared not among them according to their carnal mind and expectation.
+____
 
 And as it was one great and principal distinguishing business of the people
 called Quakers (at a time of such high profession as that was,
@@ -1397,6 +1464,8 @@ being a short extract from two sermons preached at
 Allhallows in Lombard-street in the year 1654,
 by John Webster, viz.
 
+[quote]
+____
 It is not holding forth the highest profession of Christ, in the letter,
 that makes us free, except Christ come into the heart and make us free indeed.
 The chief thing that every soul is to mind, in reading and hearing,
@@ -1443,5 +1512,7 @@ Thus may not one be dipped and receive water-baptism and yet be a sorcerer?
 Was not Simon Magus so?
 May not one be at breaking of bread with Christ, and yet be a devil?
 Yes, for so was Judas.
+____
 
+[.offset]
 So far Webster.

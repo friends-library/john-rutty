@@ -1,5 +1,6 @@
 == Chapter IV.
 
+[.chapter-subtitle--blurb]
 From the registering of Friends Meetinghouses, in the year 1719,
 to the year 1751.--The Church in danger from a spirit of libertinism and luke-warmness,
 in the time of outward peace and freedom.--The solemn
@@ -31,11 +32,13 @@ of pride in apparel, and the high living of some above their circumstances,
 to the dishonour of truth, their own hurt, and the trouble of the church.
 Now in order to stop the progress of these evils,
 a provisional visit was made to the several monthly meetings,
-in the provinces of Leinster and Ulster; and likewise a certain paper entitled,
-A Brief and Serious Warning to Such as are Concerned in Commerce and Trading,
+in the provinces of Leinster and Ulster; and likewise a certain paper entitled, [.book-title]#A Brief and Serious Warning to Such as are Concerned in Commerce and Trading,
 Who go Under the Profession of Truth, to Keep Within the Bounds Thereof,
-in Righteousness, Justice, and Honesty, to all Men, written by Ambrose Rigg,
-was now reprinted for a general service, which was as follows
+in Righteousness, Justice, and Honesty, to all Men,# written by Ambrose Rigg,
+was now reprinted for a general service, which was as follows:
+
+[.embedded-content-document.paper]
+--
 
 Many days and months, yes, some years, has my life been oppressed, and my spirit grieved,
 to see and hear of the uneven walking of many, who have a name to live,
@@ -226,9 +229,13 @@ and in them that are lost.
 
 Written by one who longs to see righteousness exalted, and all deceit confounded.
 
+[.signed-section-signature]
 Ambrose Rigge.
 
+[.signed-section-context-close]
 Gatton Place, in Surry, the 16th of the Eleventh Month, 1678.
+
+--
 
 This year (1721) several Friends, according to former practice,
 by appointment of the national meeting went over to attend the Yearly meeting at London;
@@ -253,7 +260,7 @@ The form of the affirmation granted this year to Friends of England,
 and afterwards to Friends of Ireland, to universal satisfaction, was this: "`I,
 A+++.+++ B. do solemnly, sincerely and truly, declare and affirm.`"
 
-In the year 1721 died, John Exham of Charleville, having been convinced while a soldier,
+In the year 1721 died John Exham of Charleville, having been convinced while a soldier,
 about the year 1658, and being faithful, according to his sense of his duty,
 he became zealously concerned to visit the small
 gatherings of Friends in those early days,
@@ -285,6 +292,10 @@ was esteemed to have had a prophetic gift,
 many particular instances whereof cannot at this distance of time be collected;
 but the two following are well attested.
 
+[.numbered-group]
+====
+
+[.numbered]
 1st. While he was performing the visit to the families above-mentioned,
 being in a certain room, he called out and enquired who was there present;
 and then told them,
@@ -293,6 +304,7 @@ and that he should visit several nations, which was accomplished;
 a certain young man then present, having afterwards received a gift in the ministry,
 which he exercised to the edification of the churches both at home and abroad.
 
+[.numbered]
 2nd. Whereas before the accession of king James 2. to the crown,
 the earl of Orrery had a great house at Charleville, then a splendid structure,
 unto which there was frequently a great resort of company.
@@ -313,6 +325,8 @@ The event answered the prediction; for the great house above-mentioned,
 in the time of the late wars, since the decease of the earl above-named,
 was destroyed by fire, and visibly became a habitation for the fowls of the air,
 which built their nests in it.
+
+====
 
 The said John Exham died in the ninety-second year of his age,
 having been a minister sixty years, and retained his zeal and integrity to the last.
@@ -637,7 +651,7 @@ at work in the city of Waterford about sixteen weeks,
 and went from there to Dublin, and stayed at the Half-year`'s meeting,
 which was large and very good, and so took shipping and landed at Liverpool,
 with my former companion, James Dickenson.`"^
-footnote:[See Thomas Wilson`'s Journal.]
+footnote:[See [.book-title]#Thomas Wilson`'s Journal.#]
 
 In the year 1691, he and James Dickenson,
 having both had a great exercise on their minds to visit Friends in America,
@@ -839,8 +853,11 @@ power of truth among the professors thereof.
 One specimen I shall here give of an epistle of his,
 dated at Dublin the 3rd of the Third month, 1727.
 
-To the Teachers Among the Presbyterians,
-that Refuse to Subscribe to the Westminster Confession of Faith.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== To the Teachers Among the Presbyterians, that Refuse to Subscribe to the Westminster Confession of Faith.
 
 As I believe in charity that you refuse to subscribe to the Westminster
 confession of faith upon a conscientious footing,
@@ -907,7 +924,10 @@ your understandings by his holy Spirit,
 and bring you to the knowledge of the truth as it is in Jesus, I remain,
 with true love to you, your loving friend,
 
+[.signed-section-signature]
 Benjamin Holme.
+
+--
 
 The act for the affirmation granted to Friends of this nation in the year 1723, expiring,
 solicitation was made for a renewal of it,
@@ -919,7 +939,7 @@ of their having been of the profession of the people called Quakers,
 for at least five years then last past, if thereunto required.
 
 It having been represented from Ulster province to the National meeting,
-that the little book entitled, A Brief Apology, by Alexander Pyott,
+that the little book entitled, [.book-title]#A Brief Apology,# by Alexander Pyott,
 etc. had given great satisfaction to many, particularly among the Presbyterians,
 in that province, concerning our principles, with a request that it might be reprinted,
 fifteen hundred of them were reprinted accordingly,
@@ -1051,6 +1071,9 @@ He has left behind him in manuscript,
 an account of the exercise of his soul on this account,
 of which the following is an extract in his own words.
 
+[.embedded-content-document]
+--
+
 As for the Quakers, I thought they could not be God`'s people,
 because they denied the two great seals of the covenant of grace as they were called,
 so that I thought they being wrong in that, must be wrong in everything else,
@@ -1083,6 +1106,8 @@ then were many sins brought to my remembrance with great trouble;
 and many sorrowful days and nights I passed, with earnest cries to the Lord for pardon,
 yet supported at times by the loving visitations of the Almighty,
 to let me see that he had not forsaken me.
+
+--
 
 Thus was this our friend made a Quaker by an invisible power,
 and by the same power was the work of reformation and sanctification begun in his soul,
@@ -1148,7 +1173,7 @@ when they heard a hint of purgatory, several of them rose and went off, crying,
 From there he returned to Cork and to Waterford, where he visited the bishop,
 as he had done before the bishops of Londonderry, and Down, and Conner,
 etc. who received him very kindly, and to some of the bishops he wrote letters,
-and sometimes presented them with books, as the Treatise on Oaths, another on tithes, etc.
+and sometimes presented them with books, as the [.book-title]#Treatise on Oaths,# another on tithes, etc.
 He departed from here, and returned to Great Britain, in the Twelfth month, 1736,
 leaving to Friends of this nation a farewell epistle.
 
@@ -1197,28 +1222,40 @@ recommended them as proper to be answered from the several
 Monthly to the Quarterly meetings through this nation,
 a copy of which follows, etc.
 
-Query 1. Are meetings for worship, both on week-days and First-days, duly attended,
+[.numbered-group]
+====
+
+[.numbered]
+_Query_ 1. Are meetings for worship, both on week-days and First-days, duly attended,
 as also those for discipline; and are such as are negligent herein admonished;
 and is care taken that no unfit persons sit in the latter?
 
+[.numbered]
 2+++.+++ Do the larger meetings assist and strengthen little meetings that are near them?
 
+[.numbered]
 3+++.+++ Do Friends keep to plainness of habit, speech, and furniture?
 
+[.numbered]
 4+++.+++ Do they avoid superfluous provisions at marriages and burials?
 
+[.numbered]
 5+++.+++ Unnecessary frequenting of ale-houses and taverns?
 
+[.numbered]
 6+++.+++ Do they so manage their affairs in trade and dealing,
 as to keep their words and promises in the payment of their debts and otherwise?
 
+[.numbered]
 7+++.+++ Do Friends avoid encumbrances, hindering their growth in the truth,
 and the service of it?
 
+[.numbered]
 8+++.+++ Are Friends in unity one with another; do they avoid back-biting,
 and raising or spreading evil reports of any is care
 taken to put a speedy end to all differences?
 
+[.numbered]
 9+++.+++ How are the several advices of our National meeting, and that of London,
 put in practice,
 relating to Friends`' godly care of the good education
@@ -1226,37 +1263,48 @@ of their children in the way of truth,
 sobriety, plainness of habit and speech, and all godly conduct;
 and do Friends instruct their children in the principles of truth?
 
+[.numbered]
 10+++.+++ Are Friends`' children put to school among Friends,
 and are the schools of Friends duly inspected?
 
+[.numbered]
 11+++.+++ Are the poor taken due care of,
 and do their children partake of necessary learning to fit them for trades?
 Are apprentices and servants placed out among Friends?
 
+[.numbered]
 12+++.+++ Does each Monthly meeting take care,
 that a visit to the families of Friends be performed by well qualified Friends,
 once a year, or oftener, as occasion requires?
 
+[.numbered]
 13+++.+++ Do Friends acquaint particular or Monthly meetings, and take their advice,
 before they remove from their place of settlement?
 
+[.numbered]
 14+++.+++ Do Friends maintain their testimony against paying or receiving tithes, church-rates,
 and all kinds of priest`'s dues so called; as also against bearing of arms?
 
+[.numbered]
 15+++.+++ Do any propose marriage without first obtaining the consent of parents or guardians?
 
+[.numbered]
 16+++.+++ Is care taken to deal with and censure transgressors in due time?
 
+[.numbered]
 17+++.+++ Have all Friends settled their outward affairs, by wills or deeds of trust,
 according to their present minds and circumstances?
 Is care taken that executors, guardians, and trustees,
 do faithfully discharge the trust reposed in them?
 
+[.numbered]
 18+++.+++ Are all meetinghouses and burial-places firmly made over and secured,
 and kept in good repair?
 
+[.numbered]
 19+++.+++ Are births and burials duly recorded?
 
+[.numbered]
 20+++.+++ Does each Monthly meeting take care that none
 under our profession defraud the king of his duties,
 custom or excise, or any way encourage the running of goods,
@@ -1264,7 +1312,10 @@ by buying or vending such goods;
 and do they severely reprehend and testify against all such offenders,
 and their unwarrantable, clandestine, and unlawful actions?
 
+[.numbered]
 21+++.+++ Is care taken by each Monthly meeting, that no misuse is made of the affirmation?
+
+====
 
 A general visit was performed this year to all or most of
 the men and women`'s meetings in the province of Leinster.
@@ -1389,6 +1440,9 @@ In the year 1712 she wrote, from Worcester, an epistle of love to Friends in Eng
 which was printed and contains a farewell exhortation to Friends`' families,
 wherein she addresses herself first to the elders, setting forth that,
 
+[.embedded-content-document.epistle]
+--
+
 Whereas there is a great declension from the primitive plainness, simplicity,
 and sincerity, into which truth led our faithful predecessors,
 this is owing to the prevalence of the spirit of the world, pride, covetousness,
@@ -1418,11 +1472,19 @@ thus will parents be good examples to their children, and masters to their serva
 and that indeed the heads of families are, or ought to be, the Lord`'s ministers,
 ruling them in the power of love, and thereby ordering them rightly in life and manners.
 
+--
+
+[.offset]
 And she concludes with this warning to the unfaithful,
+
+[.embedded-content-document.epistle]
+--
 
 That if the love of God to them, through his spirit and through his servants,
 will not prevail, the Lord will be clear when he judges,
 as he was in the destruction of the old world, and of the cities of Sodom and Gomorrah.
+
+--
 
 She next tenderly addresses herself to the children,
 cautioning them against various evils, dangers, and temptations, peculiar to their age,
@@ -1651,10 +1713,11 @@ Friends drew up an address to the king,
 signifying their fidelity and good affection to his person and government,
 which was as follows:
 
-To George the Second, King of Great-Britain and the Dominions Thereunto Belonging.
+[.embedded-content-document.address]
+--
 
-The humble Address of his Protestant Subjects, the People called Quakers,
-in the Kingdom of Ireland.
+[.blurb]
+=== To George the Second, King of Great-Britain and the Dominions Thereunto Belonging. The humble Address of his Protestant Subjects, the People called Quakers, in the Kingdom of Ireland.
 
 We your dutiful and peaceable subjects,
 with hearts truly sensible of the many blessings and privileges
@@ -1692,6 +1755,7 @@ to transmit the blessings we enjoy to future ages.
 Signed in Dublin, in behalf of the said people, the 31st of the First month,
 called March, 1744, by
 
+[.signed-section-signature]
 John Barclay, Peter Judd, Henry Pemberton, Daniel Bewley, Edward Fawcett, Joseph Fade,
 James Johnston, John Rutty, Samuel Judd, Benjamin Dawson, Paul Johnson, Robert Clibborn,
 Francis Russell, Thomas Strettell, jr., Robert Unthank, Jacob Ford, Robert Jaffray,
@@ -1703,6 +1767,8 @@ Henry Aflie, John Willcocks, Samuel Russel, Thomas Goulbee, Samuel Morton,
 Samuel Summers, John Beetham, Jonathan Fletcher, Joseph Green, Abraham Robinson,
 William Willan, Isaac Jackson, Richard Pearce, John Pim, Jacob Goff, William Richardson,
 James Forbes
+
+--
 
 It is worthy of observation,
 that while the neighbouring kingdom of Great-Britain
@@ -1727,7 +1793,7 @@ requesting his advice and friendship in our intended solicitation,
 which he with great cheerfulness granted them, and on his arrival here,
 encouraged Friends to petition the House of Commons this session,
 for such an act as aforesaid, which they accordingly did with good success,
-for it passed both houses, nemine contradicente, and obtained the royal assent.^
+for it passed both houses, _nemine contradicente,_ and obtained the royal assent.^
 footnote:[See the Year 1721.]
 
 Besides other ministering Friends at home,
