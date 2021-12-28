@@ -138,36 +138,371 @@ and numbers of prisoners under each reign from the beginning,
 and then conclude with the total annual sufferings to the present time,
 with a few remarks.
 
-// JARED: @TODO make a table
 ++++
-No. of Years they reigned.
-Value taken.
-Prisoners.
-TheProtectors,
-(so called) £. X. d.6 5 86 101 K. Charles II. 36 3824 16 H 780 K. James
-2:4 1583 3 12 K.William&? QJMary 5 '`3 1 1724 9 3i 33 Ann.
-12 16199 15 3* 13 K. George I. 13 22513 10 27 In all 57933 3 966 I 1. 1 1.J..
+<table class="tableblock frame-all grid-all spread">
+  <colgroup>
+    <col style="width: 36.3636%" />
+    <col style="width: 18.1818%" />
+    <col style="width: 9.0909%" />
+    <col style="width: 9.0909%" />
+    <col style="width: 9.0909%" />
+    <col style="width: 18.1819%" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th class="tableblock halign-left valign-top"><em>Under the Reign of</em></th>
+      <th class="tableblock halign-left valign-top">No. of Years they reigned.</th>
+      <th class="tableblock halign-left valign-top" colspan="3">Value Taken.</th>
+      <th class="tableblock halign-left valign-top">Prisoners.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tableblock halign-left valign-top"></td>
+      <td class="tableblock halign-left valign-top"></td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><em>£.</em></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><em>.s</em></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><em>.d</em></p>
+      </td>
+      <td class="tableblock halign-left valign-top"></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">The Protectors, (so called)</p>
+      </td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">5</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">86</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">13</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">6</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">101</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">K. Charles II.</p>
+      </td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">36</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">3824</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">16</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">8½</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">780</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">K. James II.</p>
+      </td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">4</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1583</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">14</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">3</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">12</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">K. William &amp; Q. Mary</p>
+      </td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">13</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">13724</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">9</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">3½</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">33</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">Q. Ann</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">12</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">16199</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">15</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">3½</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">13</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">K. George I.</p>
+      </td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">13</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">22513</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">14</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">10</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">27</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"></td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>In all</strong></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>57933</strong></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>3</strong></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>10½</strong></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>966</strong></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ++++
 
+[.offset]
 The annual Sum total of Friends Sufferings, chiefly for tithes, priests maintenance,
 and other ecclesiastical dues so called; and for repair of parish worshiphouses,
 from the year 1727 to 1751, inclusive.
 
-// JARED: @TODO make a table
 ++++
-K+++.+++ GEORGE II. Years Sums.
-£. s. d. 1727 r939 2 I728 1 777 2 0 1729 1921 10 0 I730 1368 1 3 I'`73I 1589 9l I732
-1591 6 3 1733 1585 0 4 1734!534 7 4 r735 1458 7 7 1736 1485 18 0 1737!599 17 9
-738 1486 13 7 1739 1511 0 8^
+<table class="tableblock frame-all grid-all spread prisoner-table">
+  <colgroup>
+    <col style="width: 12.5%" />
+    <col style="width: 12.5%" />
+    <col style="width: 12.5%" />
+    <col style="width: 12.5%" />
+    <col style="width: 50%" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th class="tableblock halign-left valign-top" colspan="4">
+        <span class="force-center">K. George II.</span>
+      </th>
+      <th class="tableblock halign-left valign-top">
+        <span class="force-center">Prisoners</span>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">Years</p></td>
+      <td class="tableblock halign-left valign-top" colspan="3">
+        <p class="tableblock"><span class="force-center">Sums.</span></p>
+      </td>
+      <td class="tableblock halign-left valign-top" rowspan="4"></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"></td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><em>£.</em></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><em>.s</em></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><em>.d</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1727</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1939</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">2</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">2</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1728</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1777</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">2</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">0</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1729</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1921</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">10</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">0</p></td>
+      <td class="tableblock halign-left valign-top" rowspan="5">
+        <p class="tableblock">
+          <span class="prisoner-desc"
+            >Three friends of Charlemont meeting, on account of tithes.</span
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1730</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1368</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">3</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1731</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1589</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">19</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">9½</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1732</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1591</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">6</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">3</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1733</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1585</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">0</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">4</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1734</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1534</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">7</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">4</p></td>
+      <td class="tableblock halign-left valign-top" rowspan="9">
+        <p class="tableblock">
+          <span class="prisoner-desc"
+            >James Simpson, and Joshua Deale, in Cavan gaol, through the severity of Hugh
+            Reilly, a popish tithe-taker under Witnel Sneyd, vicar-general of Kilmore and
+            Ardagh, and continued prisoners above a year.</span
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1735</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1458</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">7</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">7</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1736</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1485</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">18</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">0</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1737</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1599</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">17</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">9</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1738</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1486</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">13</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">7</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1739</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1511</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">0</p></td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">8 <span class="faux-footnote">*</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1740</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1884</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">6</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">0</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1741</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1738</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">15</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">7</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1742</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1532</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">7</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">8</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1743</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1460</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">9</p></td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">6 <span class="faux-footnote">†</span></p>
+      </td>
+      <td class="tableblock halign-left valign-top" rowspan="9">
+        <p class="tableblock">
+          <span class="prisoner-desc"
+            >Joshua Thompson of Carlow Monthly meeting, on account of tithes, who
+            continued a prisoner for some time.</span
+          >
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1744</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1505</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">3</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">11½</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1745</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1687</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">14</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">6</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1746</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1687</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">14</p></td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">6¾ <span class="faux-footnote">‡</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1747</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1450</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">9</p></td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock">3½ <span class="faux-footnote">§</span></p>
+      </td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1748</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1605</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">11</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1½</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1749</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1564</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">11</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">11</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1750</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1760</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">7</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">8</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1751</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">1743</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">19</p></td>
+      <td class="tableblock halign-left valign-top"><p class="tableblock">0½</p></td>
+    </tr>
+    <tr>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>Total</strong></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>40469</strong></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>17</strong></p>
+      </td>
+      <td class="tableblock halign-left valign-top">
+        <p class="tableblock"><strong>6¼</strong></p>
+      </td>
+      <td class="tableblock halign-left valign-top"></td>
+    </tr>
+  </tbody>
+</table>
 ++++
 
-// JARED: @TODO, remove this
-Table will be here^
-footnote:[In the year 1739, a certain grievous suffering befel some Friends,
+[.offset]
++++[+++The reader is referred to the footnotes for additional details
+corresponding to the symbols found in the table above.+++]+++^
+footnote:[+++*+++In the year 1739, a certain grievous suffering befel some Friends,
 on a particular occasion, which was owing to the imprudence of some on the one hand,
 and the inveterate rage of a party on the other, newly awakened;
-of which it may not be improper to subjoin some account,
-viz.--On the 5th of the Ninth month,
+of which it may not be improper to subjoin some account:--On the 5th of the Ninth month,
 being the day usually celebrated by the Protestants in commemoration
 of their deliverance from the Gun-powder Plot,
 certain Protestant journeymen and servants belonging to some Friends living at
@@ -196,16 +531,16 @@ and gross prevarication among the evidences,
 was such an instance of the countenance and regard
 of the government as was of great service;
 and the damages were afterwards recovered upon the popish inhabitants,
-according to act of parliament.]
-1740 1884 6 0 1741 1738 '`5 7 1742 J532 7 8 1743 1460 9 6^
-footnote:[To the year 1743 add 18I. us.
-od. being the damage sustained by several Friends of Limerick, Waterford, and Clonmel,
+according to act of parliament.
+{footnote-paragraph-split}
++++†+++To the year 1743 add 18£. 11s. 9d.
+being the damage sustained by several Friends of Limerick, Waterford, and Clonmel,
 by a rude mob of soldiers and others, breaking their windows, etc. because,
 for conscience-sake,
 they could not join with the multitude in illuminating their windows,
-and making bonfires, on the news of a late supposed victory at sea.]
-1744 1505 3 "`I '`745 1687 H 6 1746 1687 14 63/4^
-footnote:[To the year 1746 add 27l. 4s. 4d. being the loss
+and making bonfires, on the news of a late supposed victory at sea.
+{footnote-paragraph-split}
++++‡+++To the year 1746 add 27£. 4s. 4d. being the loss
 suffered by Friends of the City of Cork this year,
 by a rude assembly of soldiers and other rabble breaking their windows,
 because they could not illuminate them on a night of rejoicing for the
@@ -219,29 +554,14 @@ gravity and reverence becoming a Christian on such occasions,
 nor with that precept in holy Scripture, Ps. 2:11, "`Serve the Lord with fear,
 and rejoice with trembling.`"
 {footnote-paragraph-split}
-On this occasion Primate Hoadley, Robert Lord Newport,
-and Henry Boyle, Esqrs.
+On this occasion Primate Hoadley, Robert Lord Newport, and Henry Boyle, Esqrs.
 Lords Justices, were applied to by Friends of Dublin in behalf of their Friends of Cork,
 who wrote forthwith to the mayor of Cork, Walter Lavit,
-in order to discourage such practices for the future.]
-1747 1450 9 31/2^
-footnote:[To the year 1747,
-add 10l. 9s. 111/2nd. being the damage again sustained by Friends of Cork this year,
+in order to discourage such practices for the future.
+{footnote-paragraph-split}
++++§+++To the year 1747,
+add 10£. 9s. 11+++½+++d. being the damage again sustained by Friends of Cork this year,
 on a like occasion as that mentioned last year.]
-1748 1605 11 '`749 1564 11 11 1750 1760 7 8 1751 1743 T9
-
-Prisoners.
-
-Three Friends of Charlemont meeting, on account of tithes.
-
-James Simpson, and Joshua Deale, in Cavan jail, through the severity of Hugh Reilly,
-a popish tithe-taker under Witnel Sneyd, vicar-general of Kilmore and Ardagh,
-and continued Prisoners above a year.
-
-Joshua Thompson of Carlow Monthly meeting, on account of tithes,
-who continued a prisoner for some time.
-
-Total 40469 17 61/4
 
 A few Remarks, arising partly from the foregoing account,
 and partly from a perusal and impartial consideration
