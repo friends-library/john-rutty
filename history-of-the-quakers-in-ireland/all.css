@@ -1,0 +1,23 @@
+.prisoner-table td:last-child {
+  vertical-align: text-top;
+}
+
+.prisoner-table .prisoner-desc {
+  display: block;
+  padding-left: 2em;
+  text-indent: -1em;
+  text-align: left;
+  font-size: 0.9em;
+  font-style: italic;
+  vertical-align: text-top;
+}
+
+.prisoner-table .force-center {
+  text-align: center;
+  display: block;
+}
+
+.prisoner-table .faux-footnote {
+  transform: translateY(-0.25em);
+  display: inline-block;
+}
