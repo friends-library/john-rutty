@@ -122,9 +122,9 @@ who was then at the bar upon his trial, was by John Byffe, then judge,
 fined twenty pounds.
 And for the same offence, at the assizes in New Ross, was John Rodman,
 committed to jail by judge Louder, kept a prisoner three months,
-and then banished that country.
+and then banished +++[+++from] that country.
 
-The also suffered greatly by spoiling of goods;
+They also suffered greatly by spoiling of goods;
 and some instances occur in the above treatise,
 of excommunication and imprisonment on the account merely of their
 following their lawful vocations on the days called holy days,
@@ -252,7 +252,7 @@ with a few remarks.
 ++++
 
 [.offset]
-The annual Sum total of Friends Sufferings, chiefly for tithes, priests maintenance,
+The annual sum total of Friends`' Sufferings, chiefly for tithes, priests maintenance,
 and other ecclesiastical dues so called; and for repair of parish worshiphouses,
 from the year 1727 to 1751, inclusive.
 
@@ -555,7 +555,7 @@ nor with that precept in holy Scripture, Ps. 2:11, "`Serve the Lord with fear,
 and rejoice with trembling.`"
 {footnote-paragraph-split}
 On this occasion Primate Hoadley, Robert Lord Newport, and Henry Boyle, Esqrs.
-Lords Justices, were applied to by Friends of Dublin in behalf of their Friends of Cork,
+Lord`'s Justices, were applied to by Friends of Dublin in behalf of their Friends of Cork,
 who wrote forthwith to the mayor of Cork, Walter Lavit,
 in order to discourage such practices for the future.
 {footnote-paragraph-split}
