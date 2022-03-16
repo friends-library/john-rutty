@@ -2,10 +2,10 @@
 
 [.chapter-subtitle--blurb]
 From the settlement of Church-discipline to the end of the troubles under
-King James 2. The progress and increase of Friends in a state of suffering.
+King James II. The progress and increase of Friends in a state of suffering.
 Their peculiar zeal and steadiness in keeping up their Meetings for Divine
 worship in a time of persecution whilst other dissenters fled.
-The state of Friends under King James 2. and their
+The state of Friends under King James II. and their
 wonderful preservation during the troubles.
 Summary accounts of the lives, characters,
 and Christian experiences of divers of their eminent ministers interspersed.
@@ -38,8 +38,8 @@ Blanch Holden and Margaret Trotter, two very poor women,
 for going to the public worship house at Lisnegarvy,
 alias Lisburn in the county of Antrim, on the day called Christmas-day,
 and saying these or the like words, "`Let them that keep a day,
-keep it to the Lord,`" were fined by judge Kennedy, at the assizes at Carricksergus,
-one hundred marks each, and committed to Carricksergus jail,
+keep it to the Lord,`" were fined by judge Kennedy, at the assizes at Carrickfergus,
+one hundred marks each, and committed to Carrickfergus jail,
 where they continued prisoners above two years.
 
 This year John Banks, from Pardshaw in Cumberland, came into Ireland a second time,
@@ -121,7 +121,7 @@ there being a letter from thence signifying that the people desired another meet
 which, notwithstanding the opposition of the priest, was held there peaceably;
 and although the priest, as soon as he had opportunity,
 began to prosecute and imprison Friends for tithes, and such like things,
-and got several put into prison that came to visit that place, yet truth, prospered,
+and got several put into prison that came to visit that place, yet truth prospered,
 and a meeting was set up in that town, and still continueth.
 
 This year (1672) died in Cork, Susanna Mitchell, of that city:
@@ -275,7 +275,7 @@ which she embarked in and landed in that island, where she was married;
 and some time after, that island being visited by George Fox and some others,
 she was convinced by their ministry; and afterwards became an able minister,
 and in or about this year, 1678, came on truth`'s service into the kingdom of Ireland.
-She visited Friends meetings in the North;
+She visited Friends`' meetings in the North;
 preached in Lurgan market on a market-day in Irish; had several meetings near Colerain,
 where her relations lived, and several disputes on the account of truth,
 which got the victory; from whence she travelled to Armagh, Cavan, the Moate of Granoge;
@@ -357,7 +357,7 @@ He was serviceable upon many occasions with the government
 in appearing on behalf of suffering Friends,
 though he was also divers times a sufferer in bonds for his testimony.
 He wrote an excellent short treatise entitled, [.book-title]#Tithes No Gospel Ordinance#.^
-footnote:[See a further account in 1656, page 104.]
+footnote:[See a further account in 1656, page 102.]
 
 This year (1682) Friends of the three provinces made collections,
 and remitted to London the sum of 333£ to be applied to the redemption
@@ -473,6 +473,7 @@ The number of miles our said friend Benjamin travelled in
 Ireland were one thousand seven hundred and forty-six;
 the number of meetings he had here, exclusive of Dublin, were one hundred and eighty;
 and he spent in this service one year within a few days.
+
 William Edmundson and Robert Jackson were put into the bishop`'s court for tithes,
 excommunicated, taken with a writ and committed to prison,
 and they were kept prisoners about twenty weeks.
@@ -486,7 +487,7 @@ but the bishop urging it, a conference was commenced, which lasted three hours,
 and in a quiet manner without any other business,
 wherein wisdom and understanding was given to William Edmundson,
 and scriptures brought fluently into his memory; so that he proved tithes to be ended,
-and that it was antichristian to pay or receive them in gospel times which
+and that it was antichristian to pay or receive them in gospel times, which
 was opened so clearly to the understandings of the people,
 that there seemed to be great satisfaction in the court;
 and dean Sing stood up before them all and said,
@@ -622,7 +623,7 @@ and given me in measure a feeling of himself,
 I was forced to conclude (as the woman of Samaria did) that this was the Christ,
 this was the way, this was the truth; as by daily experience I found,
 by the operation of the light in my own heart,
-compared with the testimony that the faints and servants of God had given in ages past;
+compared with the testimony that the saints and servants of God had given in ages past;
 and thus in the mouths of two or three witnesses
 this testimony was established and confirmed in me.
 But still how to receive and give obedience to it, I knew not,
@@ -690,7 +691,7 @@ notwithstanding the prejudice and railing of the other dissenters who fled into 
 --
 
 There being a great resort to our meetings about this time
-(1687) one James Barry an independent preacher raged,
+(1687) one James Barry, an independent preacher, raged,
 and in his public preaching greatly railed against Friends:
 hereupon several of his hearers, like the ancient noble Bereans,
 came to Friends`' meetings to be satisfied whether his accounts were true or no;
@@ -790,7 +791,7 @@ and in the year 1692,
 it was computed that the losses of Friends throughout
 the nation amounted in the whole to 1000,000£.
 
-Now the Friends of the Meeting for sufferings in London,
+Now the Friends of the Meeting for Sufferings in London,
 sympathizing with their brethren here, did signify their readiness to assist them;
 to which the half-year`'s meeting returned answer, acknowledging their tender care,
 however at present they rather chose to decline the acceptance of their friendly offer,
@@ -802,7 +803,7 @@ Friends here reduced by the late calamitous times,
 besides one hundred and fifty pounds remitted from London to Ulster,
 and the sum of one thousand and sixty pounds more was sent for this purpose from London,
 which in the year 1692, was ordered to be distributed proportionally to each province,
-and a letter was sent to the Meeting for sufferings in London,
+and a letter was sent to the Meeting for Sufferings in London,
 acknowledging their acceptance hereof,
 but withal desiring that a full stop should be put to their sending any more.
 Thus in those calamitous times were Friends very nearly united in affection;
@@ -921,7 +922,7 @@ and in a little time after they were set at liberty.
 7+++.+++ At Moate Granoge, John Clibborn aforesaid,
 at whose house a meeting was settled by turn, kept his place long in much danger,
 and so did most Friends of that meeting, which they still kept up in great difficulty,
-it lying but fix miles from Athlone, then a chief Irish garrison,
+it lying but six miles from Athlone, then a chief Irish garrison,
 and a noted place of refuge,
 from whence did often scout parties that made great spoil upon the country,
 and whereunto the bloody Rapparees usually led such English as they caught,
@@ -997,7 +998,7 @@ both priests and others, were succoured there,
 and helped on their way (when coming from about the river Shannon,
 and going to Cashel and Clonmel) who had been much spoiled
 and stripped in the Irish quarters where they dwelt:
-kept his place till general Dayly placed a garrison at his house or castle,
++++[+++Gershon] kept his place till general Dayly placed a garrison at his house or castle,
 and then with great difficulty and danger removed his family to Montrath aforesaid,
 to live or die with Friends, times looking very dismal.
 
@@ -1031,7 +1032,7 @@ for the present with such necessaries as time and their abilities did afford;
 and great care was taken in Friends settling,
 that they might settle near together for the benefit of meetings to serve the Lord.
 
-And it is remarkable that Friends meetings were preserved peaceable,
+And it is remarkable that Friends`' meetings were preserved peaceable,
 and that they kept their meetings according to the usual manner for the worship of God,
 without much disturbance from either party,
 as also their men and women`'s meetings for church discipline, both monthly, provincial,
@@ -1308,7 +1309,7 @@ Friends to take part of what sufferings might happen;
 and indeed he was a blessed instrument in the hand of the Lord for the strengthening
 and comforting of his people in those suffering and calamitous times.
 It is particularly recorded of him, that in the year 1690,
-in his visit to Friends meetings, at a public province-meeting,
+in his visit to Friends`' meetings, at a public province-meeting,
 he delivered the following remarkable prophetic warning,
 viz. "`It is now a time of great trial upon you in losing what you have:
 but the time will come when you will be as greatly tried
